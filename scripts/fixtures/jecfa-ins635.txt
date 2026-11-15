@@ -1,0 +1,1184 @@
+788. Disodium 5'-guanylate and disodium 5'-inosinate (WHO Food Additives Series 32)
+
+    DISODIUM 5'-GUANYLATE AND DISODIUM 5'-INOSINATE
+
+    First draft prepared by
+    Dr K. Ekelman and Dr K. C. Raffaele, Additives Evaluation Branch
+    Division of Health Effects Evaluation
+    Center for Food Safety and Applied Nutrition
+    Food and Drug Administration, Washington, DC, USA
+
+    
+
+1. EXPLANATION
+
+         The disodium salts of 5'-guanylic acid and 5'-inosinic acid
+    were previously evaluated at the eighteenth meeting of the
+    Committee, when an ADI "not specified" was allocated (Annex 1,
+    reference 35).  At that time, metabolism, teratogenicity, and acute,
+    short-term and long-term toxicity of the two substances, as well as
+    data on the reproductive toxicity of inosinic acid and its calcium
+    and sodium salts, were reviewed.  The present Committee reviewed
+    these compounds together, as many of the new toxicological studies
+    had been performed on mixtures of the two salts.  Data from the
+    earlier reviews have been incorporated into this consolidated
+    monograph.
+
+    
+
+2.  BIOLOGICAL DATA
+
+    
+
+2.1  Biochemical aspects
+
+    
+
+2.1.1  Absorption, distribution, and excretion
+
+    
+Disodium 5'-guanylate
+
+         Male and pregnant female (day 10 or 18 of gestation) rats were
+    given 25 mg/kg bw of 8-[
+14
+C] disodium 5'-guanylate by gavage. 
+    Plasma radioactivity reached a maximum 30 minutes after ingestion
+    and decreased abruptly to near zero within 24 hours; t´ was about
+    one hour.  Twenty-four hours after exposure, about 84% of total
+    activity appeared in urine, 0.2% in faeces, none in expired air,
+    between 0-0.6% remained in organs; about 12% of total activity
+    remained in organ-free carcass of males and pregnant females (18
+th
+
+    day of gestation) 24 hours after treatment.  Fetuses contained about
+    0.01% of activity 24 hours after treatment (Ohara 
+ et al., 
+1973).
+
+    
+Disodium 5'-inosinate
+
+         Male and pregnant female (day 10 or 18 of gestation) rats were
+    given by gavage 25 mg/kg bw of 8-
+14
+C labelled disodium
+    5'-inosinate.  Radioactivity in plasma reached maximum levels ´ to 2
+    hours after treatment and slowly decreased to practically zero after
+    24 hours; t´ was about 5 hours.  About 70% of total activity
+    appeared in the urine, 6-7% in faeces, none in expired air, 0-2% in
+    organs, and 8-17% in the organ-free carcass of males and pregnant
+    females (18
+th
+ day of gestation) 24 hours after treatment.  Fetuses
+    contained about 0.77% of total activity 24 hours after treatment
+    (Ohara 
+ et al., 
+1973).
+
+    
+
+2.1.2  Biotransformation
+
+    
+Disodium 5'-guanylate
+
+         The greater portion of disodium 5'-guanylate in the body is
+    derived from 
+ de novo 
+purine bio-synthesis and the rest is derived
+    from pre-formed dietary purines.  Biosynthesized disodium
+    5'-inosinate is the precursor of disodium 5'-guanylate, to which it
+    is converted by oxidation to xanthosine-5-mono-phosphate and
+    amination.  Dietary or endogenous purine bases and ribonucleosides
+    are converted to the 5'-ribonucleotides by phosphorylation.
+
+         Disodium 5'-guanylate is dephosphorylated to guanosine,
+    hydrolyzed to guanine, deaminated to xanthine and oxidized to uric
+    acid.  In most mammals, uric acid is further oxidized by the liver
+    enzyme urate oxidase to allantoin.  Primates, including humans, lack
+    the enzyme, however; for them, uric acid is the main end product of
+    purine metabolism.   In humans, 2/3 of uric acid is excreted in the
+    urine; the rest is further broken down in the gut.  Digestion of
+
+    disodium 5'-guanylate appears to take place mainly in the duodenum:
+    the nucleosides are probably absorbed actively, the purines probably
+    diffuse passively across the intestinal wall (Kojima, 1974).
+
+    
+Disodium 5'-inosinate
+
+         Disodium 5'-inosinate derives from dephosphorylation of ATP
+    (adenosine-5-triphosphate) to AMP and deamination.  Further
+    conversion to hypoxanthine is slow compared to the conversion of ATP
+    to disodium 5'-inosinate.  The greater portion of disodium
+    5'-inosinate in living tissue is derived from 
+ de novo 
+purine
+    biosynthesis, and less is derived from ingested dietary purines or
+    nucleotides.  Disodium 5'-inosinate is the first purine formed in
+    the complex biosynthesis of purine nucleotides (Kojima, 1974).
+
+    
+
+2.1.3  Effects on enzymes and other biochemical parameters
+
+         Groups of five male rats (control group size was 10) were given
+    0%, 1%, or 4% disodium 5'-guanylate or disodium 5'-inosinate for
+    five or 10 days in a purine-free basal diet.  Levels of uric acid in
+    serum and urine were not significantly affected, and most of the
+    ingested disodium 5'-guanylate and disodium 5'-inosinate was rapidly
+    excreted in urine as allantoin.  However, liver hypoxanthine-guanine
+    phosphoribosyl transferase and adenine phosphoribosyl transferase
+    activities were increased and the ratio of liver uricase/xanthine
+    oxidase activity was increased, suggesting metabolism of ingested
+    disodium 5'-guanylate and disodium 5'-inosinate by shunt pathways
+    (Hashimoto 
+ et al., 
+1973).
+
+    
+
+2.2  Toxicological studies
+
+    
+
+2.2.1  Acute toxicity studies
+
+    
+Disodium 5'-guanylate
+
+         Results of acute toxicity studies with disodium 5'-guanylate
+    are summarized in Table 1.
+
+             Table 1: Acute toxicity studies with disodium 5'-guanylate
+
+    
+                                                                 
+
+    Species     Sex     Route      LD50       Reference
+                                (mg/kg bw)
+
+    
+                                                                 
+
+    Mouse       M&F     oral      &gt10 000     Usui 
+ et al., 
+1971
+    Mouse       M       oral       15 000     Ichimura & Muroi, 1973
+    Mouse       F       oral       16 300     Ichimura & Muroi, 1973
+    Mouse       M       s.c.        5 050     Ichimura & Muroi, 1973
+    Mouse       F       s.c.        5 050     Ichimura & Muroi, 1973
+    Mouse       M       i.p.        6 800     Ichimura & Muroi, 1973
+    Mouse       F       i.p.        5 010     Ichimura & Muroi, 1973
+    Mouse       M       i.v.        3 580     Ichimura & Muroi, 1973
+    Mouse       F       i.v.        3 950     Ichimura & Muroi, 1973
+    Mouse       M       i.v.         3800     Shimamoto 
+ et al., 
+1974
+
+    Rat         M&F     oral      &gt10 000     Usui 
+ et al., 
+1971
+    Rat         M       oral       17 300     Ichimura & Muroi, 1973
+    Rat         F       oral       17 300     Ichimura & Muroi, 1973
+    Rat         M       s.c.        3 550     Ichimura & Muroi, 1973
+    Rat         F       s.c.        3 400     Ichimura & Muroi, 1973
+    Rat         M       i.p.        4 750     Ichimura & Muroi, 1973
+    Rat         F       i.p.        3 880     Ichimura & Muroi, 1973
+    Rat         M       i.v.        2 720     Ichimura & Muroi, 1973
+    Rat         F       i.v.        2 850     Ichimura & Muroi, 1973
+    
+                                                                 
+
+    
+         A series of experiments was performed to assess a variety of
+    acute effects of disodium 5'-guanylate.  In mice, an i.v. dose of
+    500 mg/kg bw disodium 5'-guanylate produced abdominal postures,
+    slight respiratory depression and slight depression of avoidance
+    response to mechanical stimuli at 15 min (response had returned to
+    normal at 30 min).  There was no muscular relaxation (defined as
+    failure to remain on a 2 mm diameter metal bar for 30 sec, measured
+    at 10 and 30 minutes after dosing) but spontaneous revolutions
+    (during placement in a rotating cage) were decreased (p&lt.05 vs.
+    control) at one hour and decreased (not statistically significant)
+    at 2 hr.  There was no modification of electroshock convulsion after
+    an i.v. dose of 500 mg/kg bw, but there was a dose-dependent
+    decrease of the dose of metrazol required to produce convulsions
+    when infusion of metrazol was started immediately after i.v.
+    injection of 200 or 500 mg/kg bw disodium 5'-guanylate (this
+    decrease was significant only at 500 mg/kg bw).  Doses of 125 mg/kg
+    bw and 500 mg/kg bw disodium 5'-guanylate, i.v., also caused
+    prolongation of the time during which there was loss of righting
+    reflex following methylhexabital anaesthesia (methylhexabital was
+    injected i.p. 10 min after dosing; the time of measurement was not
+    stated), but there was no effect on this response at 50 mg/kg bw
+    disodium 5'-guanylate.  Oral administration of 500 mg/kg bw disodium
+    5'-guanylate to mice did not affect their analgesic response to
+    thermal stimuli (measured as pain threshold in seconds [the method
+    was not described but was presumably the latency of paw removal from
+    a hot plate]).  Compared to controls, 100 mg/kg bw s.c. disodium
+    5'-guanylate in mice depressed salivary secretion following
+    stimulation by pilocarpine.  Pilocarpine was administered 35 min
+    after disodium 5'-guanylate; secretion was measured for 20 minutes
+    starting immediately after pilocarpine injection.  There was no
+    effect of an oral dose of 500 mg/kg bw disodium 5'-guanylate on
+    carrageenin-induced oedema in rats.  Administration of 100 mg/kg bw
+    disodium 5'-guanylate s.c. to rats did not affect the secretion of
+    gastric juices but slightly increased their pH and depressed their
+    total acidity.  Intragastric administration of 25 mg/kg bw disodium
+    5'-guanylate had no diuretic effect in rats.  Concentrations of
+    disodium 5'-guanylate below 10
+-4
+g/ml had no effect on the
+    contractile response of isolated guinea-pig ilium to acetylcholine,
+    histamine, or barium chloride (Shimamoto 
+ et al., 
+1974).
+
+         Topical disodium 5'-guanylate (applied to the tongue acutely at
+    a concentration of 0.01% disodium 5'-guanylate with 0.3% MSG)
+    enhanced the electrical response of the chorda tympani to topical
+    MSG in the rat (Sato 
+ et al., 
+1971).
+
+         Disodium 5'-guanylate administered i.p. had no marked effect on
+    the conditioned avoidance response of the rat.  Parenteral disodium
+    5'-guanylate produced transient changes in the electroencephalogram
+    (EEG) of rabbits (Hirayama, 1968).
+
+         Intravenous disodium 5'-guanylate had no significant effect on
+    the blood pressure, heart-rate, or electrocardiogram (ECG) of the
+    anaesthetized rabbit (Yabo, 1964).
+
+         Rapid intracarotid injection of disodium 5'-guanylate increased
+    the cerebral blood flow but did not affect oxygen consumption or
+    glucose uptake in the perfused cat brain (Otsuki 
+ et al., 
+1968).
+
+         Anaesthetized cats were exposed to disodium 5'-guanylate via a
+    tube inserted into the femoral vein or a tube inserted into the
+    medial sacral artery.  Acute infusions of 10, 25, or 50 mg/kg bw
+    disodium 5'-guanylate caused transient, slight, dose-dependent
+    hypotension that was associated with tachycardia, and increased
+    blood flow to the hind limbs.  Intra-arterial infusion of disodium
+    5'-guanylate at doses greater than 10 mg/kg caused transient
+    increases in blood flow to the hind limbs.  There was no change in
+    ECG pattern with either method of dosing.
+
+         In isolated guinea-pig atria, doses of disodium 5'-guanylate up
+    to 10
+-5
+ g/ml did not affect contractile height or atrial rhythm;
+    disodium 5'-guanylate at 10
+-4
+ g/ml increased the rate and strength
+    of contractions; 10
+-3
+ g/ml further increased the rate and slightly
+    decreased the strength of contractions (Shimamoto 
+ et al., 
+1974).
+
+    
+Disodium 5'-inosinate
+
+         Results of acute toxicity studies with disodium 5'-inosinate
+    are summarized in Table 2.
+
+         A series of experiments was performed by Shimamoto and
+    coworkers to assess a variety of acute effects of disodium
+    5'-inosinate.  In mice, i.v. administration of 500 mg/kg bw disodium
+    5'-inosinate caused behavioural excitement, increased reflex
+    response, no muscular relaxation (measured by the ability to remain
+    on a horizontal metal bar for 30 sec or by the ability to remain on
+    a screen inclined at 60°) and depressed rotating activity (measured
+    as the number of spontaneous rotations during placement in a
+    rotating cage) during the first hour following administration of
+    disodium 5'-inosinate.  Administration of 500 mg/kg bw i.v. did not
+    modify electroshock convulsions in mice; however, disodium
+    5'-inosinate doses of 100 and 500 mg/kg bw decreased the dose of
+    metrazol that produced continuous convulsions.  Administration of
+    50-500 mg disodium 5'-inosinate/kg bw i.v. to mice prolonged loss of
+    the righting reflex after anaesthesia with methylhexabital. 
+    Administration of 10-50 mg disodium 5'-inosinate/kg bw i.v. to cats
+    had no effect on blood pressure, heart rate, ECG, or blood flow to
+    the hind limbs.  Incubation with medium containing 10
+-5
+ g/ml
+    disodium 5'-inosinate did not affect the height and rhythm of
+    spontaneous movements of isolated guinea-pig atria; incubation with
+
+    10
+-3
+ g/ml disodium 5'-inosinate, however, depressed contractile
+    height by 16.5% and slightly increased the rate of contractions
+    (Shimamoto 
+ et al., 
+1974).
+
+         A 1:4 000 dilution of disodium 5'-inosinate first increased
+    motility and then decreased tone of an immersed, isolated guinea pig
+    uterus (Floessner, 1934).
+
+         Topical disodium 5'-inosinate enhanced the electrical response
+    of the chordotympani to topical MSG in rats and cats (Adachi, 1964;
+    Sato 
+ et al., 
+1965).
+
+         A 1% solution of disodium 5'-inosinate decreased the mobility
+    of isolated guinea-pig intestine (Hara 
+ et al., 
+1966).
+
+         In a series of studies, Shimamoto and coworkers reported that:
+    1) administration of 50 and 100 mg/kg bw disodium 5'-inosinate s.c.
+    to mice decreased the pilocarpine-induced increase in salivary
+    secretion; 2) administration of 100 mg/kg bw disodium 5'-inosinate
+    s.c. to mice had no effect on charcoal transport in the small
+    intestine; 3) incubation with medium containing 10
+-3
+ g/ml disodium
+    5'-inosinate did not affect the contractile response of isolated
+    guinea-pig ileum to acetylcholine, histamine, or barium chloride;
+    4) oral administration of 500 mg/kg bw disodium 5'-inosinate had no
+    effect on analgesic response to thermal stimuli in mice or
+    carrageenin-induced oedema in rats; 5) administration of 100 mg/kg
+    bw disodium 5'-inosinate s.c. had no effect on gastric juice volume
+    in the rat but slightly increased gastric pH; and 6) rats given 100
+    mg/kg bw intragastric disodium 5'-inosinate showed no diuresis
+    (Shimamoto 
+ et al., 
+1974).
+
+         Disodium 5'-inosinate caused no changes in renal function or
+    renal venous renin after arterial infusion at 50-500 ug/min in
+    anaesthetized, sodium-depleted dogs (Tagawa and Vander, 1970).
+
+         Disodium 5'-inosinate injected i.v. in anaesthetized rabbit had
+    no effect on blood pressure or respiration at 5-10 mg/kg bw, but 50
+    mg/kg bw and above caused a transient decrease in blood pressure and
+    potentiation of respiration (Hara, 1966).
+
+         Disodium 5'-inosinate injected i.v. caused hypotension in the
+    rabbit at 0.2 mg/kg bw and in the dog at 0.35 mg/kg bw (Floessner,
+    1934).
+
+         Pharmacological studies on disodium 5'-inosinate showed no
+    effect on the S-A or A-V nodes in the Langendorff preparation of rat
+    heart (Versprille, 1966).
+
+             Table 2:  Acute toxicity studies with disodium 5'-inosinate
+
+    
+                                                                         
+
+    Species    Sex      Route     LD
+50
+ (mg/kg bw)    Reference
+
+    
+                                                                         
+
+    Mouse      M&F      oral             &gt10 000     Usui 
+ et al., 
+1971
+    Mouse      ?        oral       12 000-14 000     Hara 
+ et al., 
+1966
+    Mouse      M        oral              17 600     Ichimura & Muroi, 1973
+    Mouse      F        oral              19 800     Ichimura & Muroi, 1973
+    Mouse      F        oral             &gt20 000     Merck petition
+    Mouse      ?        s.c.         6 200-7 000     Hara 
+ et al., 
+1966
+    Mouse      M        s.c.               5 480     Ichimura & Muroi, 1973
+    Mouse      F        s.c.               5 630     Ichimura & Muroi, 1973
+    Mouse      ?        i.p.         5 400-5 600     Hara 
+ et al., 
+1966
+    Mouse      M        i.p.               6 300     Ichimura & Muroi, 1973
+    Mouse      F        i.p.               6 200     Ichimura & Muroi, 1973
+    Mouse      ?        i.v.         3 300-3 900     Hara 
+ et al., 
+1966
+    Mouse      M        i.v.               3 950     Ichimura & Muroi, 1973
+    Mouse      F        i.v.               4 600     Ichimura & Muroi, 1974
+    Mouse      M        i.v.               4 400     Shimamoto 
+ et al., 
+1974
+
+    Rat        M&F      oral             &gt10 000     Usui 
+ et al., 
+1971
+    Rat        M        oral              17 100     Ichimura & Muroi, 1973
+    Rat        F        oral              15 900     Ichimura & Muroi, 1973
+    Rat        M        s.c.               3 900     Ichimura & Muroi, 1973
+    Rat        F        s.c.               4 340     Ichimura & Muroi, 1973
+    Rat        M        i.p.               5 400     Ichimura & Muroi, 1973
+    Rat        F        i.p.               4 850     Ichimura & Muroi, 1973
+    Rat        M        i.v.               2 730     Ichimura & Muroi, 1973
+    Rat        F        i.v.               2 870     Ichimura & Muroi, 1973
+    
+                                                                         
+
+    
+    
+
+2.2.2  Short-term toxicity studies
+
+    2.2.2.1  Rats
+
+    
+Disodium 5'-guanylate
+
+         Groups of 10 male rats were given 0%, 0.1%, or 1% disodium
+    5'-guanylate in their diet daily for three and six months.  The
+    authors stated that no significant abnormalities were noted as
+    regards spontaneous behaviour, body weight gain, food intake,
+    haematology, urinalysis, and macroscopic and histological
+    examination.  However, data in tables included only a few subjects
+    in each group so the authors' conclusions could not be confirmed
+    (Usui 
+ et al., 
+1971).
+
+    
+Disodium 5'-inosinate
+
+         Groups of 10 male rats were fed diets containing either 0, 10,
+    100 or 1 000 mg/kg bw/dy naturally derived or synthetically prepared
+    disodium 5'-inosinate for 90 days.  No adverse effects were noted on
+    weight gain, organ weights, haematological parameters or
+    histopathology (Hara 
+ et al., 
+1966).
+
+         Eight male and 8 female Sprague-Dawley rats were fed diets
+    containing 0%, 0.5%, 1.0%, 2.0% or 4.0% disodium 5'-inosinate for 12
+    weeks followed by levels of 0%, 0.75%, 1.5%, 3.0%, or 6.0% disodium
+    5'-inosinate during weeks 13-25.  No significant abnormalities in
+    any treatment group with regard to behaviour, body weight gain, food
+    intake, haematology or urinalysis were reported.  Some animals in
+    higher dosage groups showed renal medullary calcification; relative
+    mean weights of kidney and spleen in the 6% disodium 5'-inosinate
+    groups were significantly increased.
+
+         In a second experiment, 6 male and 6 female Sprague-Dawley rats
+    were given 0%, 1%, 4%, or 8% disodium 5'-inosinate in the diet for
+    52 weeks.  The only adverse effects noted were slight depression of
+    body weight gain in the groups fed 8% disodium 5'-inosinate. 
+    Increased renal calcifications was seen in the 4% and 8% females;
+    this was probably related to urine osmolarity.  The 8% males and 2%
+    and 8% females showed more severe nephrosis than rats in other
+    groups (Yonetani 
+ et al., 
+1973).
+
+         Groups of 10 male rats were given 0%, 0.1%, or 1% of disodium
+    5'-inosinate in their diet daily for three and six months.  Average
+    daily intake of disodium 5'-inosinate was reported to be 45.8 mg/kg
+    bw/dy for the 0.1% group and 496.5 mg/kg bw/dy for the 1% group. 
+    Tables in the report included data on only a few animals in each
+    group and did not always indicate the number of animals for which
+    mean values were calculated.  The authors stated that no significant
+    abnormalities were noted in spontaneous behaviour, body weight gain,
+    food intake, haematology, urinalysis, or macroscopic and
+
+    histological examination.  However, absolute lung weight was
+    decreased in both disodium 5'-inosinate-fed groups when compared to
+    the control group (mean lung weight at six months: 1239 for
+    controls; 869 for 0.1% disodium 5'-inosinate group; 879 for 1%
+    disodium 5'-inosinate group [units not reported]).  Although the
+    authors attributed this change to the presence of pneumonitis
+    leading to increased lung weight, which was most pronounced in
+    control rats, this reviewer was unable to discern any relationship
+    between degree of pneumonitis and lung weight (Usui 
+ et al., 
+1971). 
+    The authors stated that some animals were excluded from the final
+    tabulation of results due to pulmonary infection, but the numbers
+    excluded from each group were not provided.
+
+    
+Disodium 5'-guanylate + disodium 5'-inosinate
+
+         Male rats (group size unspecified, but apparently 10 at the
+    beginning of the study) were given 0.2, 0.4, 0.8, or 2% of a 50:50
+    mixture of disodium 5'-guanylate and disodium 5'-inosinate (50:50
+    mix) in the diet for 6 months.  Three rats in each group died during
+    the course of the study due to pulmonary infection.  Mean ribotide
+    intake was 30.8 mg/day for the 0.2% group, 63 mg/day for the 0.4%
+    group, 123.5 mg/day for the 0.8% group, and 308.6 mg/day for the 2%
+    group.  There were no changes in body weight, haemoglobin,
+    erythrocyte, leucocyte, or haematocrit (blood parameters measured
+    for 5 rats/group only) for rats in any dose group compared to
+    control rats. There were some scattered statistically significant
+    changes in organ weights, which did not appear dose-related; there
+    was a trend toward an increase in kidney weight with dose, but this
+    was not statistically significant.  The Committee did not consider
+    the statistics to be reliable, since some statistical findings
+    reported were anomalous.
+
+         An additional study reported by the same group included
+    administration of 0.8% and 4% 50:50 mix for 3 months; although some
+    results from the 3-month study were discussed in the report on the
+    6-month study, data from the 3-month study were not reported
+    separately (Usui 
+ et al., 
+1971).
+
+    2.2.2.2  Dogs
+
+    
+Disodium 5'-inosinate
+
+         One male and one female beagle were fed diets containing 0%,
+    3.6-3.9% or 8% disodium 5'-inosinate for four to six weeks without
+    any adverse effect (Noel 
+ et al., 
+1971).
+
+         Four male and four female beagles were fed diets containing 0,
+    0.5, 1 or 2 g/kg disodium 5'-inosinate for two years.  No
+    significant changes were reported in body weight gain, feed
+    consumption or ophthalmoscopy.  Haematology, biochemistry and
+    urinalysis were normal.  Dogs fed 2 g/kg bw/day disodium
+
+    5'-inosinate had significantly increased allantoin levels in the
+    serum but these were not dose-related.  Histopathological
+    examination showed no significant abnormalities (Rivett 
+ et al.,
+
+    1973).
+
+    
+Disodium 5'-guanylate + disodium 5'-inosinate
+
+         Preliminary studies were conducted using groups of 1 male and 1
+    female beagle dog/dose, with feeding of 50:50 mix in the diet at
+    levels of 0, 2, 5, or 10% for four weeks (6 weeks at the 10% level). 
+    Weight gain was slightly decreased in the 10% group during the 3-6
+    week period.  All 
+ post mortem 
+findings, including organ weights
+    and histological examinations, were normal for all groups (no data
+    were presented for the preliminary study).
+
+         Beagle dogs, 4 animals/sex/group (4 months of age at the start
+    of the study) were fed diets containing 0, 0.1 (mean daily intake
+    30-40 mg/kg bw), 1.0 (mean daily intake 26-48 mg/kg bw), or 2.0%
+    (mean daily intake 51-93 mg/kg bw) 50:50 mix for 2 years.  Clinical
+    signs and feed intake were recorded daily; water consumption was
+    checked at monthly intervals.  Ophthalmoscopic examinations,
+    urinalyses, haematological examinations, and blood biochemistry
+    studies, including the determination of serum electrolytes,
+    allantoin and uric acid, were conducted before dosing and at 1, 2,
+    4, 6, 9, 12, 15, 18, 21, and 24 months after initiation of
+    treatment.  Serum allantoin and uric acid levels were raised,
+    sometimes in a dose-related manner, at several time points during
+    the study: serum allantoin (mg/100 ml) was raised at 8 weeks in all
+    dosed groups (control=2.11; 0.1%=2.42; 1%=2.58; 2%=2.67), at 16
+    weeks in the .1% and 1% groups (control=2.03; 0.1%=2.67; 1%=3.23),
+    and at 92 weeks in all groups (control=1.82; 0.1%=2.43; 1%=3.04;
+    2%=2.90); serum uric acid (mg/100 ml) was raised at 26 weeks in the
+    1% and 2% groups (control=0.70; 1%=0.96; 2%=1.19), and at week 103
+    in the 1% group (control=0.51; 1%=1.00).  No other findings related
+    to intake of test substance were noted (Worden 
+ et al., 
+1975).
+
+    
+
+2.2.3  Long-term toxicity/carcinogenicity studies
+
+    2.2.3.1  Rats
+
+    
+Disodium 5'-inosinate
+
+         Fourteen male and 14 female Sprague-Dawley rats were fed diets
+    containing 0%, 1%, 2%, 4%, or 8% disodium 5'-inosinate for 95 weeks. 
+    No significant changes were seen in behaviour, body weight gain,
+    feed intake, haematology, blood chemistry, urinalysis,
+    histopathology or mortality (Yonetani 
+ et al., 
+1973).
+
+    
+Disodium 5'-guanylate + disodium 5'-inosinate
+
+         Male and female rats (group size unspecified, but it may have
+    been 10 animals/sex/group) were fed 50:50 mix at 0%, 1% or 2% of the
+    diet for 24 months.  Average daily intakes were 427 and 864 mg/kg
+    bw/day for males and 528 and 1026 mg/kg bw/day for females on the 1%
+    and 2% diets, respectively.  The authors noted no differences in
+    body weight, food utilization, food intake, mortality, or general
+    health among the treatment groups.  Due to the small number of
+    animals/sex/group (10), the pathology findings are difficult to
+    interpret.  No increase in tumours associated with consumption of
+    diets containing a 50:50 mixture of disodium 5'-guanylate and
+    disodium 5'-inosinate was reported.  There may have been a small
+    increase in testicular atrophy in male rats (3/9 in both 50:50
+    mix-fed groups, 1/9 in control) and an increase in adrenal
+    enlargement in high-dose female rats (6/10 in females fed 2% a 50:50
+    mixture of disodium 5'-guanylate and disodium 5'-inosinate, 2/10 in
+    females fed 1% a 50:50 mixture of disodium 5'-guanylate and disodium
+    5'-inosinate, 2/10 in control females).  No effect of 50:50 mix
+    ingestion on tumour incidence, tumour type, or pathological lesions
+    of various organs in rats was seen under conditions of this study
+    (Usui 
+ et al., 
+1971).
+
+    
+
+2.2.4  Reproduction studies
+
+    2.2.4.1  Rats
+
+    
+Disodium 5'-inosinate
+
+         In a three-generation reproduction study, groups of ten male
+    and 20 female rats were fed diets containing 0%, 0.5%, 1%, or 2%
+    disodium 5'-inosinate.  Animals were fed experimental or control
+    diets for 60 days before mating.  No effects on mating performance,
+    pregnancy rate, or duration of gestation were noted.  Body weight
+    gain in disodium 5'-inosinate-fed rats was larger than in controls
+    in all generations.  Litter size, pup weight, pup mortality and
+    incidence of abnormalities were unaffected by treatment.  The
+    authors reported that organ weight analysis, histopathology and
+    skeletal staining of F
+3B
+ litters revealed no consistent pattern of
+    adverse effects related to disodium 5'-inosinate consumption (Palmer
+    
+ et al., 
+1973).
+
+    
+Disodium 5'-guanylate + disodium 5'-inosinate
+
+         Rats were fed diets containing 0, 0.1, 1.0, or 2.0% 50:50 mix
+    for 3 generations (20 female and 10 male rats per generation).  Two
+    litters were produced per generation and the parent group for the
+    next generation was selected from the second litter.  The parent
+    group was apparently not randomly chosen, but pups were chosen from
+    as many litters as possible and selected so that pup weights were as
+    close as possible to the mean pup weight at weaning.  In parent
+
+    animals, mortality, bodyweight change, feed consumption, mating
+    performance, pregnancy rate, and gestation period were assessed. 
+    All offspring were examined for external abnormalities within 12
+    hours of birth.  At 21 days of age, all pups from the first litter
+    of each generation and surplus pups from the second litter were
+    killed and examined internally and externally for evidence of
+    abnormality.  Ten males and 10 females from the third generation
+    (control and 2% 50:50 mix groups only) were subjected to detailed
+    histological examination of the pancreas, urinary bladder, a long
+    bone, stomach, small and large intestines, and bone marrow smears. 
+    Brain, liver, heart, pituitary, spleen, thyroid, kidneys, thymus,
+    adrenals, lungs, and gonads were weighed.  An additional 10 males
+    and 10 females from the third generation of each exposure group
+    underwent skeletal examination.
+
+         The author concluded that there was no evidence of any
+    treatment-related effect at any dose level (few data were included
+    in the article).  However, there was a tendency for the litter size
+    to be larger for 50:50 mix-fed rats than for control rats for the
+    first litters and smaller than controls for the second litters. 
+    Similarly, pup mortality tended to be lower than controls in the
+    first litters of 50:50 mix-fed rats and higher than controls in the
+    second litters.  These tendencies reached statistical significance
+    for the 1.0% treatment group in the second and third generations,
+    but were not dose-related.
+
+         The author reported a trend toward increased skeletal variants
+    with increasing dose of 50:50 mix (variants included bipartite
+    thoracic centrum, seven sternebra, and extra ribs); however, only 10
+    animals of each sex were examined, so the relevance of these
+    findings is unclear (controls: 20% of males and 20% of females
+    exhibited some skeletal variations; 0.1% 50:50 mix group: 10% of
+    males and 30% of females exhibited skeletal variations; 1% 50:50 mix
+    group: 50% of males and 30% of females exhibited skeletal
+    variations; 2% 50:50 mix group: 80% of males and 40% of females
+    exhibited skeletal variations).  The author concluded that the
+    findings in this study had no toxicological significance (Palmer,
+    1975).
+
+    
+
+2.2.5  Special studies on embryotoxicity/teratogenicity
+
+    2.2.5.1  Mice
+
+    
+Disodium 5'-guanylate
+
+         Pregnant female mice were treated with 0, 750 or 1 000 mg/kg bw
+    guanosine, injected i.p. on day 10 or day 13 of gestation.  Mice
+    were sacrificed on day 19 of gestation, and examined for number of
+    implantation sites and signs of fetal death 
+ in situ.  
+Live fetuses
+    were removed, weighed, and examined for external deformities and
+
+    skeletal malformations.  Control values were: body weight - 1.40 g,
+    dead offspring - 6.5%; skeletal malformations - 0%; external
+    malformations - 0.5%; subcutaneous haematoma - 0%.  Fetuses from
+    mothers injected on day 10 showed a decrease in mean body weight
+    (mean=1.32 g) and an increase in percent live offspring with
+    skeletal malformation (7.7%) at 750 mg/kg bw; there was an increase
+    in percent of dead offspring (26.2%), decrease in mean body weight
+    (mean=1.34 g), and an increase in percent live offspring with
+    skeletal malformation (14.2%) at 1 000 mg/kg bw.  Injection on day
+    13 caused an increase in percent dead offspring (21.3%) and decrease
+    in mean body weight (mean=1.33 g) at 750 mg/kg bw; there was an
+    increase in percent dead offspring (23.1%), decrease in mean body
+    weight (mean=1.35 g), and increase in percent live offspring with
+    external malformation (7.8%) and subcutaneous haematoma (5.3%) after
+    injection of 1 000 mg/kg bw (Fujii 
+ et al., 
+1972).
+
+    
+Disodium 5'-inosinate
+
+         Pregnant female mice were treated with 0, 250, 500 or 1 000
+    mg/kg bw inosine, injected i.p. on day 10 or 500 or 1 000 mg/kg bw
+    injected i.p. on day 13 of gestation.  Mice were sacrificed on day
+    19 of gestation, and examined for number of implantation sites and
+    signs of fetal death 
+ in situ.  
+Live fetuses were removed, weighed,
+    and examined for external deformities and skeletal malformations. 
+    Control values were: body weight - 1.40, percent dead offspring -
+    6.5; percent skeletal malformations - 0; percent external
+    malformations - 0.5; percent subcutaneous haematoma - 0.  Fetuses
+    from mothers injected on day 10 showed an increase in percent of
+    dead offspring (16.5%), decrease in mean body weight (mean=1.35),
+    and an increase in percent live offspring with skeletal malformation
+    (14.0%) at doses of 1 000 mg/kg bw; decrease in mean body weight
+    (mean=1.33) and an increase in percent live offspring with skeletal
+    malformation (15.3%) at 500 mg/kg bw; decrease in mean body weight
+    (mean=1.35) and an increase in percent live offspring with skeletal
+    malformation (12.4%) at 250 mg/kg bw.  Injection on day 13 caused an
+    increase in dead offspring (24.6%) and decrease in mean body weight
+    (mean=1.31) at 1 000 mg/kg bw; increase in dead offspring (12.4%)
+    and decrease in mean body weight (mean=1.37) at 500 mg/kg bw, with
+    no increase in skeletal malformations at either dose (Fujii 
+ et al.,
+
+    1972).
+
+    
+Disodium 5'-guanylate + disodium 5'-inosinate
+
+         Groups of 14 pregnant mice were given 0 or 2 000 mg/kg bw/dy
+    50:50 mix orally via gastric tube from days 8-13 of pregnancy. 
+    Fetuses were removed by Caesarean section on day 19.  Parameters
+    measured were: number of embryonal implantations and fetal deaths,
+    weight, sex differentiation, gross external and visceral
+    malformations, and skeletal malformations; the authors reported no
+    effects of treatment on any measured parameters (Kaziwara 
+ et al.,
+
+    1971).
+
+    2.2.5.2  Rats
+
+    
+Disodium 5'-guanylate
+
+         Groups of 9 pregnant rats were given 0 or 100 mg/kg bw/dy
+    disodium 5'-guanylate orally via gastric tube on days 9-15 of
+    pregnancy.  Fetuses were removed by Caesarean section on day 21.  
+    Parameters measured were: number of embryo implantations and fetal
+    deaths, weight, sex differentiation, gross external and visceral
+    malformations, and skeletal malformations; the authors reported no
+    effects of treatment on any measured parameters.  The authors
+    reported no effects of treatment on any measured parameters
+    (Kaziwara 
+ et al., 
+1971).
+
+    
+Disodium 5'-guanylate + disodium 5'-inosinate
+
+         A group of 9 pregnant rats were given 2 000 mg/kg bw/dy 50:50
+    mix orally via gastric tube from days 9-15 of pregnancy.  Fetuses
+    were removed by Caesarean section on day 21.  Parameters were
+    measured as above.  There was a change in the sex ratio of the
+    fetuses (M:F ratio was 1.11 in control litters, 0.64 in treated
+    litters); the significance of this change was not commented on by
+    the authors.  No other changes were found in any measured parameters
+    (Kaziwara 
+ et al., 
+1971).
+
+    2.2.5.3  Rabbits
+
+    
+Disodium 5'-guanylate
+
+         Pregnant rabbits were fed either a normal diet (12 animals) or
+    diets containing 0.2 g disodium 5'-guanylate/kg bw/dy or 2.0 g
+    disodium 5'-guanylate/kg bw/dy from days 6-18 of gestation (9-10
+    animals/group).  All except four dams in each group were sacrificed
+    on day 29; remaining dams were allowed to litter spontaneously and
+    their pups were observed until 30 days of age.  No adverse effects
+    on body weight were noted; rabbits fed diets containing 2 g/kg bw/dy
+    had reduced feed consumption.  Implantation numbers did not differ
+    from controls but mortality of fetuses in the 2 g/kg bw/dy group was
+    lower than in controls.  All disodium 5'-guanylate-treated groups
+    showed some delay in ossification, but no treatment-specific
+    skeletal abnormalities.  There were no effects on number of
+    delivered fetuses, and survival rate of the 0.2 g/kg group was
+    greater than controls at weaning.  Mean pup body weights were
+    reported to be normal and no significant malformations were observed
+    in pups of either dose group (Jojima 
+ et al., 
+1973).
+
+    
+Disodium 5'-inosinate
+
+         Groups of 13-18 pregnant female Japanese white rabbits received
+    0, 200 or 2 000 mg/kg bw/dy disodium 5'-inosinate in their diet
+    during days 6-18 of gestation.  Four to five females of each group
+    were allowed to deliver spontaneously and pups were observed to day
+    30.  All other dams were killed on day 29 of gestation.  The authors
+    reported that no significant effects were observed on implantation
+    sites, number of live or dead fetuses, body weights of live fetuses
+    nor external abnormalities.  The mortality of fetuses in the 0.2
+    g/kg bw/dy group was lower than that of other groups.  All disodium
+    5'-inosinate-treated groups showed some delay in ossification but no
+    specific skeletal abnormalities were found that appeared to be due
+    to disodium 5'-inosinate.  The authors concluded that daily
+    administration of 2 000 mg/kg bw disodium 5'-inosinate had no
+    adverse effect on pup development (Jojima 
+ et al., 
+1973).
+
+    2.2.5.4  Chickens
+
+    
+Disodium 5'-guanylate
+
+         Chick embryos were injected with guanosine into the yolk sac at
+    4 days, with doses ranging from 2-12 mg/egg.  Of 65 embryos
+    injected, 49 remained alive at 10 days and 45 remained alive at 18
+    days.  6 embryos showed abnormalities at 11-18 days (12%).  The
+    approximate LD
+50
+ for guanosine in this system was estimated to be 8
+    mg/egg.  Guanosine was neither highly toxic nor teratogenic in this
+    system (Karnofsky 
+ et al., 
+1961).
+
+    2.2.5.5  Monkeys
+
+    
+Disodium 5'-guanylate + disodium 5'-inosinate
+
+         Pregnant 
+ Cynomolgus 
+monkeys were given 0 (2 monkeys), 500
+    mg/kg bw/dy 50:50 mix (2 monkeys) or 1 000 mg/kg bw/dy 50:50 mix
+    (3 monkeys) orally via gastric tube from day 21 to day 30 of
+    pregnancy.  Fetuses were removed by Caesarean section on day 100. 
+    Measured parameters were weight, sex differentiation, gross external
+    and visceral malformations and skeletal malformations.  All treated
+    females were reported to show some effects of treatment: monkeys
+    receiving 500 mg/kg bw/dy 50:50 mix evacuated soft faeces for 4 or 9
+    days during treatment; all monkeys receiving 1 000 mg/kg bw/dy 50:50
+    mix exhibited diarrhoea, one of the three exhibited profuse
+    diarrhoea and vaginal bleeding so that administration was stopped
+    after the 6th day of treatment.  Body weight gain of treated animals
+    was similar to that of control animals, except for one animal
+    receiving 500 mg/kg bw/dy who showed no weight gain during the
+    study.  The authors reported that one fetus from a treated monkey
+    (500 mg/kg bw) had a hypertrophic spleen which manifested blood
+    stagnation upon histological examination.  No gross visceral nor
+
+    skeletal malformations were observed in treated or control fetuses. 
+    A cervical rib was present in 1 control fetus, 2 fetuses from
+    females treated with 500 mg/kg bw/dy and 1 fetus from a female
+    treated with 1 000 mg/kg bw/dy (Kaziwara 
+ et al., 
+1971).
+
+    
+
+2.2.6  Special studies on genotoxicity
+
+         Sodium 5' guanylate, sodium 5' inosinate, and a 50:50 mix were
+    tested for genotoxicity in the 
+ Salmonella/
+microsome test (with and
+    without metabolic activation) and chromosomal aberration test
+    
+ in vitro 
+using a Chinese hamster fibroblast cell line (without
+    metabolic activation).  All substances were negative in the
+    
+ Salmonella/
+microsome test.  Results of the chromosomal aberration
+    test were positive for all substances.  For disodium 5'-guanylate,
+    the D
+20
+ (dose at which structural aberrations were detected in 20%
+    of the metaphases observed) was .024 mg/ml and the TR (frequency of
+    cells with exchange type aberrations per unit dose (mg/ml)) was 576. 
+    For disodium 5'-inosinate, the D
+20
+ (dose at which structural
+    aberrations were detected in 20% of the metaphases observed) was
+    15.2 mg/ml, the TR (frequency of cells with exchange type
+    aberrations per unit dose (mg/ml)) was 0.8.  For 50:50 mix, the D
+20
+
+    was 1.99 mg/ml and the TR was 4.75 (Ishidate 
+ et al., 
+1984).
+
+    
+
+2.3  Observations in humans
+
+    
+Disodium 5'-inosinate
+
+         Three healthy volunteers were given 0, 1, 1.5, 2, and 2.5 g
+    disodium 5'-inosinate for seven consecutive days (diets had equal
+    amounts of purines).  Serum uric acid and urinary uric acid
+    excretion doubled without signs of ill effects.  The author reported
+    that uric acid is the major endpoint of disodium 5'-inosinate
+    metabolism in humans; 2/3 of uric acid appears in the urine, with
+    the remainder excreted via the gut, where it was further degraded.
+    (Kojima, 1974).
+
+    
+Disodium 5'-guanylate + disodium 5'-inosinate
+
+         Three healthy men were fed 0, 250, 500, 1 000, 2 000, or 4 000
+    mg/day of a mixture of 50% disodium 5'-inosinate and 50% disodium
+    5'-guanylate.  Equal divided doses were given with three daily
+    meals.  Doses were given in an escalating pattern, from 250 to 4 000
+    mg/day, with 5 days at each dose; uric acid levels in serum and
+    urine were measured before dosing and on the final two days at each
+    dose.  Uric acid levels in serum and urine were not significantly
+    increased at doses up to 1 000 mg/day, but doses of 2 000 and 4 000
+    mg/day caused significant increases in both measures (p&lt.005).  The
+    authors stated that the measured values at 2 000 mg/day (serum uric
+    acid: 6.9 mg/100 ml; urinary uric acid: 0.82 g/day) were increased
+    above baseline (serum uric acid: 6.3 mg/100 ml; urinary uric acid:
+
+    0.6 g/day) but were within the normal range of these values; however
+    values at 4 000 mg/day (serum uric acid: 8.6 mg/100 ml; urinary acid
+    1.1 g/day) were elevated above the normal range (Mitoma 
+ et al.,
+
+    1972). (The normal ranges were not given in this article, but Kojima
+    [1974] reported that normal serum urate levels were 5±1 mg/100 ml in
+    969 normal men and mean urinary uric acid was 8.1 mg/kg bw/24 h in
+    normal men.).
+
+    
+
+3.  COMMENTS
+
+         Disodium 5'-guanylate and disodium 5'-inosinate are widely
+    distributed in all animal and plant tissues.  Their role in purine
+    metabolism as well as their breakdown to uric acid and to allantoin
+    (in most mammals, but not humans) is well documented.  Data
+    presented at the 18
+th
+ meeting as well as new data on the
+    metabolism, reproductive effects, genotoxicity, and short-term and
+    long-term toxicity of guanylate and inosinate were evaluated at the
+    present meeting.  No evidence of carcinogenicity, teratogenicity, or
+    adverse effects on reproduction has been observed.
+
+         Changes in dietary purine intake over the past decade resulting
+    from the use of guanylate and inosinate as flavour enhancers are no
+    greater than those due to variability in the consumption of the
+    major dietary contributors of purines.  Naturally occurring
+    nucleotides in the diet (calculated to be up to 2 g/person/day)
+    greatly exceeds their intake resulting from use as flavour enhancers
+    (approximately 4 mg/person/day).
+
+    
+
+4.  EVALUATION
+
+         The Committee concluded that, on the basis of the available
+    data, the combined total daily intake of disodium 5'-guanylate and
+    disodium 5'-inosinate is not of toxicological significance, and
+    re-confirmed the ADI "not specified" that was previously
+    established.  Because exposure to these substances from their use as
+    flavour enhancers is low compared with daily intake of naturally
+    occurring nucleotides in the diet, the Committee found no reason to
+    recommend that foods to which these substances have been added
+    should be labelled on the basis of safety, and withdrew its previous
+    recommendation for labelling.
+
+    
+
+5.  REFERENCES
+
+    ADACHI, A. (1964).  
+ J. Physiol. Soc. Jap.  
+26, 347.
+
+    FLOESSNER, I. (1934).  The physiological activity of nucleic acids
+    and their derivatives.  
+ Arch. Exptl. Path. Pharmakol. 
+174,
+    245-254.
+
+    FUJII, T., & NISHIMURA, H. (1972).  Comparison of teratogenic action
+    of substances related to purine metabolism in mouse embryos. 
+    
+ Japan. J. Pharmacol.  
+22, 201-206.
+
+    HARA, S., HORIBE, M., KASAHARA, T., KIKULA, K., SATOH, S., TOKISAKI,
+    K., & YAKAZU, K. (1966).  Pharmacological investigations with
+    regards to a toxicity and general pharmacological action of sodium
+    5'-inosinate, especially comparisons between natural and synthetic
+    products.   
+ J. Tokyo Med. Coll.  
+24, 553-587.
+
+    HASHIMOTO, S. 
+ et al. 
+(1973).  Report from Life Sciences
+    Laboratories, Ajinomoto Co., Tokyo, Japan.
+
+    HIRAYAMA, H. (1968).  
+ Folia Pharmacol. Jap. 
+64, 279.
+
+    ICHIMURA, J. & MUROI, K. (1973).  Report from Life Sciences
+    Laboratories, Ajinomoto Co., Tokyo, Japan.
+
+    ISHIDATE, Jr., J., SOFUNI, T., YOSHIKAWA, K., HAYASHI, M., NOHMI,
+    T., SAWADA, M., & MATSUOKA, A. (1984).  Primary mutagenicity
+    screening of food additives currently used in Japan.  
+ Fd. Chem.
+
+    
+ Toxicol. 
+8, 623-636.
+
+    JOJIMA, M. 
+ et al. 
+(1973).  Report from Life Sciences Laboratories,
+    Ajinomoto Co., Tokyo, Japan.
+
+    KARNOFSKY, D.A. & LACON, C.R. (1961).  Effects of physiological
+    purines on the development of the chick embryo.  
+ Biochem.
+
+    
+ Pharmacol.  
+7, 154-8.
+
+    KAZIWARA, K., MIZUTANI, J. & IHARA, T. (1971).  On the fetotoxicity
+    of disodium 5'-ribonucleotide in the mouse, rat and monkey.
+    
+ J. Takeda Res. Lab.  
+30, 314-321.
+
+    KOJIMA, K. (1974).  Safety evaluation of disodium 5'-inosinate,
+    disodium 5'-guanylate and disodium 5'-ribonucleotide.  
+ Toxicology 
+
+    2, 185-206.
+
+    MITOMA, C., STONE, H., & DAVIS, P. (1972).  Effects of feeding
+    purine containing flavor enhancer (ST-1) on Uric acid levels in man. 
+    Unpublished report from Stanford Research Institute, Menlo Park,
+    California 94025, USA.  Submitted to WHO by the U.S. Food and Drug
+    Administration.
+
+    NOEL, P.R.B. 
+ et al. 
+(1971).  Personal communication, HRC.
+
+    OHARA, V., MATSUZAWA, Y. & TAKEDA, J. (1973).  Report from Life
+    Sciences Laboratories, Ajinomoto Co., Tokyo, Japan.
+
+    OTSUKI, S. 
+ et al. 
+(1968).  
+ Med. and Biol. 
+76, 107.
+
+    PALMER, A.K., BATHAN, P. & NEWMAN, A.J. (1973).  Unpublished data.
+
+    PALMER, A.K., LOVELL, M.R., SPICER, E.J.F., & WORDEN, A.N. (1975). 
+    The effect of disodium 5'-ribonucleotide on reproductive function
+    over three generations in the rat.  
+ Toxicology 
+3, 333-340.
+
+    RIVETT, K.F. 
+ et al. 
+(1973).  Unpublished data of HRC.
+
+    SATO, M., OGAWA, H., & YAMASHITA, S. (1971).  Comparison of
+    potentiating effect on gustatory response by disodium 2-methyl
+    mercapto-5'-inosinate with that by 5'=disodium 5'-inosinate.
+    
+ Jap. J. Physiol. 
+21, 669-697.
+
+    SHIMAMOTO, K., AOMORI, T., MIKODA, T., FUKUDA, A., ISHII, M.,
+    WATANABE, K., JIMPU, T., & ARAMAKI, Y. (1974).  Pharmacological
+    studies on disodium 5'-Inosinate, disodium 5'-guanylate and disodium
+    5'-ribonucleotide.  
+ J. Takeda Res. Lab. 
+33, 24-37.
+
+    TAGAWA, H., & VANDER, A. (1970).  Effects of adenosine compounds on
+    renal function and renin secretion in dogs.  
+ Circ. Res. 
+26,
+    327-338.
+
+    USUI, T., OGIWARA, S., KAZIWARA, A., & SHIMAMOTO, K. (1971).  Oral
+    toxicity studies of disodium 5'-ribonucleotide in the rat.
+    
+ J. Takeda Res. Lab. 
+30, 614-635.
+
+    VERSPRILLE, A. (1966).  
+ Arch. Ges. Physiol. 
+291, 261-267.
+
+    WORDEN, A.N., RIVETT, K.F., EDWARDS, D.B., STREET, A.E., & NEWMAN,
+    A.J. (1975).  Long-term feeding study on disodium 5'-ribonucleotide
+    in dogs.  
+ Toxicology 
+3, 341-347.
+
+    YABO, S. (1964).  
+ Folia Pharmacol. Japon. 
+60, 194.
+
+    YONETANI, S. 
+ et al. 
+(1973).  Unpublished data.
+
+ 
+
+    See Also:
+       
+Toxicological Abbreviations

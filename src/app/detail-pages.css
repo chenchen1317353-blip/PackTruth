@@ -1,0 +1,1950 @@
+/* The review and reading rooms share the same calm, editorial rhythm. */
+:is(.confirm-page, .result-page) {
+  --detail-ink: #263e34;
+  --detail-muted: #68766e;
+  --detail-line: #e1e6e0;
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+  color: var(--detail-ink);
+}
+
+:is(.confirm-page, .result-page) .detail-eyebrow {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 10px 0 22px;
+  border-bottom: 1px solid var(--detail-line);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  color: var(--detail-muted);
+}
+
+:is(.confirm-page, .result-page) .detail-eyebrow span:last-child {
+  letter-spacing: 0.04em;
+}
+:is(.confirm-page, .result-page) .detail-page-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 36px;
+  padding: 44px 0 34px;
+  margin: 0;
+}
+:is(.confirm-page, .result-page) .detail-page-head > div:first-child {
+  min-width: 0;
+}
+:is(.confirm-page, .result-page) .detail-page-head h1 {
+  margin: 0 0 16px;
+  font-size: clamp(30px, 4.1vw, 53px);
+  line-height: 1.22;
+  font-weight: 550;
+  letter-spacing: -0.055em;
+  text-wrap: balance;
+  overflow-wrap: anywhere;
+}
+:is(.confirm-page, .result-page) .detail-page-head p {
+  max-width: 670px;
+  color: var(--detail-muted);
+  font-size: 13px;
+  line-height: 1.9;
+}
+.confirm-page .detail-page-head p strong {
+  font-weight: 500;
+  color: var(--detail-ink);
+}
+.confirm-page .review-stamp {
+  flex: 0 0 214px;
+  border-left: 1px solid #cad2c9;
+  padding: 8px 0 8px 28px;
+  display: flex;
+  flex-direction: column;
+  font-size: 10px;
+  color: var(--detail-muted);
+}
+.confirm-page .review-stamp-label {
+  letter-spacing: 0.08em;
+  font-size: 9px;
+}
+.confirm-page .review-stamp strong {
+  color: var(--detail-ink);
+  font-size: 64px;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: -0.06em;
+}
+.confirm-page .review-stamp strong span {
+  font-size: 13px;
+  margin-left: 10px;
+  font-weight: 400;
+}
+.confirm-page .review-progress {
+  margin: 0 0 22px;
+}
+.confirm-page .confirm-grid {
+  display: grid;
+  grid-template-columns: 1.1fr 1fr;
+  gap: 18px;
+}
+.confirm-page .confirm-grid > .block {
+  min-width: 0;
+  margin: 0;
+}
+.confirm-page
+  .confirm-grid
+  > :is(.confirm-ingredients, .confirm-nutrition, .confirm-claims) {
+  grid-column: 1 / -1;
+}
+.confirm-page .block {
+  padding: 28px;
+  border: 1px solid var(--detail-line);
+  border-radius: 24px;
+  background: #fff;
+  box-shadow: none;
+}
+.confirm-page .block-head {
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 24px;
+}
+.confirm-page .block-head h2 {
+  font-size: 17px;
+  font-weight: 550;
+  letter-spacing: -0.02em;
+}
+.confirm-page .block-hint {
+  margin-left: auto;
+  font-size: 11px;
+  color: var(--detail-muted);
+}
+:is(.confirm-page, .result-page) .detail-section-number {
+  display: inline-grid;
+  place-items: center;
+  width: 29px;
+  height: 29px;
+  flex: none;
+  border-radius: 50%;
+  border: 1px solid #dce2da;
+  font-family: "Arial", sans-serif;
+  font-size: 10px;
+  font-weight: 500;
+  color: var(--detail-muted);
+}
+.confirm-page :is(input[type="text"], select) {
+  min-width: 0;
+  border: 1px solid #e0e6df;
+  border-radius: 10px;
+  background: #f7f8f5;
+  color: var(--detail-ink);
+  transition:
+    border-color 0.18s,
+    background 0.18s;
+}
+.confirm-page :is(input[type="text"], select):focus {
+  border-color: #718c69;
+  background: #fff;
+}
+.confirm-page input::placeholder {
+  color: #7c857d;
+}
+.confirm-page .field span {
+  color: var(--detail-muted);
+  font-size: 11px;
+  margin-bottom: 7px;
+}
+.confirm-page .field input {
+  min-height: 46px;
+  padding: 10px 13px;
+  font-size: 13px;
+}
+.confirm-page .form-grid {
+  gap: 16px;
+}
+.confirm-page .basis-row {
+  margin-top: 30px;
+}
+.confirm-page .basis-btn {
+  min-height: 67px;
+  border-radius: 14px;
+  border-color: #dfe5dc;
+  background: #f7f8f5;
+  font-size: 12px;
+  color: var(--detail-ink);
+}
+.confirm-page .basis-btn:hover {
+  border-color: #728b65;
+}
+.confirm-page .basis-btn.on {
+  background: #d4fa78;
+  border-color: #d4fa78;
+  color: #263e34;
+}
+.confirm-page .basis-origin {
+  margin-top: 15px;
+}
+.confirm-page .micro-toggle {
+  color: var(--detail-muted);
+  margin-top: 15px;
+  min-height: 26px;
+}
+.confirm-page .raw-text {
+  margin-bottom: 20px;
+}
+.confirm-page .raw-text summary {
+  color: var(--detail-muted);
+  font-size: 12px;
+}
+.confirm-page .raw-text p {
+  background: #f3f5ef;
+  border-radius: 14px;
+  padding: 14px 18px;
+}
+.confirm-page .ing-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px 30px;
+}
+.confirm-page .ing-item {
+  min-width: 0;
+  gap: 7px;
+}
+.confirm-page .ing-item input {
+  width: 0;
+  padding: 9px 12px;
+  font-size: 13px;
+  min-height: 43px;
+}
+.confirm-page .ing-order {
+  width: 20px;
+  font-size: 11px;
+}
+.confirm-page .ing-actions button {
+  width: 31px;
+  height: 34px;
+  border: 0;
+  background: #f1f4ee;
+  border-radius: 8px;
+}
+.confirm-page .ing-actions button:disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
+}
+.confirm-page .btn-dashed {
+  min-height: 45px;
+  margin-top: 20px;
+  border-radius: 12px;
+  background: transparent;
+  border-color: #d6dfd1;
+  color: #586e50;
+}
+.confirm-page .btn-dashed:hover {
+  background: #f1f8e6;
+  border-color: #8da56e;
+}
+.confirm-page .nutrition-column-labels,
+.confirm-page .nut-row {
+  display: grid;
+  grid-template-columns: minmax(110px, 2fr) minmax(80px, 1fr) minmax(
+      70px,
+      0.7fr
+    ) minmax(80px, 0.8fr) 36px;
+  gap: 12px;
+}
+.confirm-page .nutrition-column-labels {
+  color: var(--detail-muted);
+  font-size: 10px;
+  letter-spacing: 0.04em;
+  padding: 0 12px 12px;
+}
+.confirm-page .nutrition-mobile-note {
+  display: none;
+}
+.confirm-page .nutrition-column-labels span:nth-child(2),
+.confirm-page .nutrition-column-labels span:nth-child(4) {
+  text-align: right;
+}
+.confirm-page .nut-table {
+  gap: 10px;
+}
+.confirm-page .nut-row {
+  padding: 0;
+}
+.confirm-page .nut-row.child {
+  padding-left: 15px;
+}
+.confirm-page .nut-row input,
+.confirm-page .nut-row select {
+  min-height: 44px;
+  padding: 8px 12px;
+}
+.confirm-page .row-del {
+  width: 36px;
+  height: 36px;
+  border: 0;
+  background: #f3f5f0;
+  border-radius: 10px;
+}
+.confirm-page .nut-hint {
+  padding: 0 0 5px 12px;
+}
+.confirm-page .nut-row.not-labeled :is(input, select) {
+  background: #edf0e9;
+  color: #7e877d;
+}
+.confirm-page .chip {
+  padding: 9px 17px;
+  min-height: 40px;
+  border-color: #dfe5db;
+  color: var(--detail-ink);
+}
+.confirm-page .chip:hover {
+  background: #e9f4d8;
+  border-color: #b0c899;
+}
+.confirm-page .claim-tag {
+  background: #e9f4d8;
+  color: #3b5435;
+  padding: 7px 8px 7px 15px;
+}
+.confirm-page .claim-tag button {
+  width: 25px;
+  height: 25px;
+  background: #d3e5be;
+  color: #3b5435;
+}
+.confirm-page .manual-row input {
+  padding: 10px 14px;
+}
+:is(.confirm-page, .result-page) .action-bar {
+  gap: 14px;
+  background: rgba(245, 246, 243, 0.94);
+  backdrop-filter: blur(14px);
+  border-top: 1px solid var(--detail-line);
+  box-shadow: none;
+  margin-top: 30px;
+  padding: 16px 0 calc(16px + env(safe-area-inset-bottom));
+}
+:is(.confirm-page, .result-page) .action-bar .btn-primary {
+  flex: 0 1 340px;
+  margin-left: auto;
+  min-height: 52px;
+  border-radius: 999px;
+  background: #263e34;
+  color: #f5f6f3;
+  border-color: #263e34;
+  font-size: 13px;
+}
+:is(.confirm-page, .result-page) .action-bar .btn-primary:hover:not(:disabled) {
+  background: #3a5142;
+}
+:is(.confirm-page, .result-page) .action-bar .btn-primary:disabled {
+  background: #d8dfd4;
+  border-color: #d8dfd4;
+  color: #84907f;
+}
+:is(.confirm-page, .result-page) .btn-ghost {
+  border-radius: 999px;
+  border-color: #d7dfd4;
+  font-size: 13px;
+  color: var(--detail-ink);
+}
+:is(.confirm-page, .result-page) .link-btn {
+  color: #456d37;
+}
+:is(.confirm-page, .result-page) .page-note {
+  color: #68766e;
+  font-size: 11px;
+}
+:is(.confirm-page, .result-page)
+  :is(button, input, select, summary, a):focus-visible {
+  outline: 3px solid #7fa85e;
+  outline-offset: 3px;
+}
+:is(.confirm-page, .result-page) .alert {
+  border-radius: 16px;
+  padding: 16px 20px;
+  font-size: 12px;
+}
+:is(.confirm-page, .result-page) .alert.warn {
+  border-color: #e7dfc9;
+  background: #f5f1e4;
+  color: #77683d;
+}
+:is(.confirm-page, .result-page) .alert.error {
+  border-color: #eccbc5;
+  background: #fbefeb;
+  color: #a13e30;
+}
+
+.result-page .result-kicker {
+  display: block;
+  color: var(--detail-muted);
+  font-size: 14px;
+  margin-bottom: 14px;
+}
+.result-page .detail-page-head h1 {
+  font-size: clamp(28px, 3.8vw, 49px);
+}
+.result-page .result-sub {
+  gap: 7px;
+  margin-top: 18px;
+}
+.result-page .result-sub span {
+  border-color: #dce3d8;
+  background: transparent;
+  padding: 5px 11px;
+  font-size: 11px;
+}
+.result-page .source-line {
+  margin-top: 13px;
+  color: var(--detail-muted);
+  font-size: 11px;
+}
+.result-page .result-seal {
+  display: flex;
+  flex-direction: column;
+  flex: 0 0 190px;
+  line-height: 0.92;
+  font-family: var(--font-display);
+  font-size: 41px;
+  font-weight: 700;
+  letter-spacing: -0.05em;
+  transform: rotate(-4deg);
+  color: #aebca2;
+}
+.result-page .result-seal > span {
+  display: block;
+}
+.result-page .result-seal .seal-asterisk {
+  display: inline-block;
+  font-size: 33px;
+  margin-left: 5px;
+  color: #65834d;
+}
+.result-page .result-seal small {
+  font-size: 6.5px;
+  letter-spacing: 0.12em;
+  font-weight: 500;
+  margin-top: 11px;
+}
+.result-page .record-overview {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  margin: 10px 0 22px;
+}
+.result-page .overview-cell {
+  padding: 26px 28px;
+  border-radius: 24px;
+  background: #e4e9e6;
+  min-width: 0;
+}
+.result-page .overview-ingredients {
+  background: #d4fa78;
+}
+.result-page .overview-claims {
+  background: #263e34;
+  color: #f7f9f3;
+}
+.result-page .overview-label {
+  font-size: 9px;
+  letter-spacing: 0.08em;
+  opacity: 0.8;
+}
+.result-page .overview-cell > div {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  padding: 18px 0 11px;
+}
+.result-page .overview-cell strong {
+  font-size: 64px;
+  letter-spacing: -0.065em;
+  font-weight: 500;
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+}
+.result-page .overview-cell > div > span {
+  font-size: 12px;
+}
+.result-page .overview-caption {
+  display: block;
+  font-size: 10px;
+  opacity: 0.78;
+  line-height: 1.7;
+}
+.result-page .result-section {
+  margin-top: 48px;
+}
+.result-page .section-head {
+  gap: 10px;
+  margin-bottom: 13px;
+}
+.result-page .section-head h2 {
+  font-size: 23px;
+  font-weight: 550;
+  letter-spacing: -0.035em;
+}
+.result-page .section-tag {
+  margin-left: auto;
+  padding: 4px 10px;
+  color: var(--detail-muted);
+  font-size: 10px;
+  border-color: #dce3d7;
+  background: transparent;
+}
+.result-page .section-desc {
+  max-width: 800px;
+  font-size: 12px;
+  line-height: 1.9;
+  margin-bottom: 24px;
+  color: var(--detail-muted);
+}
+.result-page .section-desc strong {
+  color: var(--detail-ink);
+  font-weight: 550;
+}
+.result-page .claim-cards {
+  gap: 20px;
+}
+.result-page .claim-card {
+  border: 1px solid var(--detail-line);
+  border-radius: 24px;
+  padding: 27px 30px;
+  box-shadow: none;
+  background: #fff;
+}
+.result-page .claim-card-eyebrow {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  font-size: 9px;
+  color: #809077;
+  letter-spacing: 0.1em;
+}
+.result-page .claim-card-eyebrow span:last-child {
+  font-size: 10px;
+  letter-spacing: 0.02em;
+}
+.result-page .claim-card-head {
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 15px;
+}
+.result-page .claim-card-head .claim-quote {
+  font-size: 31px;
+  letter-spacing: -0.04em;
+  font-weight: 500;
+}
+.result-page .status-badge {
+  padding: 6px 12px;
+  font-size: 11px;
+  font-weight: 500;
+}
+.result-page .status-badge.tone-green {
+  color: #426332;
+  background: #e6f3d3;
+}
+.result-page .status-badge.tone-amber {
+  color: #817041;
+  background: #f2eddc;
+}
+.result-page .claim-summary {
+  background: transparent;
+  padding: 0;
+  margin-bottom: 24px;
+  font-size: 14px;
+  color: #596854;
+}
+.result-page .claim-grid {
+  grid-template-columns: 1fr 1.18fr;
+  gap: 18px;
+}
+.result-page .claim-panel {
+  border: 0;
+  border-radius: 16px;
+  background: #f5f7f1;
+  padding: 22px;
+}
+.result-page .claim-panel:last-child {
+  background: #edf2e8;
+}
+.result-page .panel-title {
+  color: #5d7052;
+  font-size: 11px;
+  margin-bottom: 18px;
+  font-weight: 500;
+}
+.result-page .fact-list {
+  gap: 0;
+}
+.result-page .fact-row {
+  border-bottom: 1px solid #e3e8dc;
+  padding: 12px 0;
+  font-size: 12px;
+}
+.result-page .fact-row:first-child {
+  padding-top: 0;
+}
+.result-page .fact-row:last-child {
+  border-bottom: 0;
+  padding-bottom: 0;
+}
+.result-page .fact-k {
+  color: #6a785f;
+}
+.result-page .fact-v {
+  color: var(--detail-ink);
+}
+.result-page .calc-box {
+  background: #fff;
+  border-color: #dce5d3;
+  border-radius: 12px;
+  padding: 15px;
+}
+.result-page .calc-result {
+  color: #36572a;
+}
+.result-page .evidence-block {
+  margin-top: 22px;
+  padding-top: 15px;
+  border-top: 1px solid #e4e9e0;
+}
+.result-page .evidence-block > summary {
+  color: #617553;
+  font-size: 11px;
+  padding: 7px 0;
+}
+.result-page .evidence-card {
+  border-radius: 14px;
+  background: #fafbf7;
+  border-color: #e1e7da;
+}
+.result-page .serving-section {
+  border-radius: 24px;
+  border: 1px solid #dce4d5;
+  padding: 30px;
+  background: #e9efdf;
+}
+.result-page .slider-row {
+  border: 0;
+  background: transparent;
+  border-radius: 0;
+  padding: 20px 0 15px;
+  gap: 35px;
+}
+.result-page .slider-row input[type="range"] {
+  accent-color: #44663b;
+  min-width: 0;
+  cursor: pointer;
+}
+.result-page .slider-value {
+  min-width: 150px;
+  font-size: 38px;
+  font-weight: 500;
+  letter-spacing: -0.05em;
+  color: #324d2a;
+}
+.result-page .ingredient-cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+.result-page .ingredient-cards li {
+  min-width: 0;
+}
+.result-page .ing-card-btn {
+  min-height: 70px;
+  border: 1px solid #e0e6dc;
+  border-radius: 16px;
+  padding: 14px 18px;
+  background: #fff;
+  transition:
+    background 0.18s,
+    border-color 0.18s,
+    transform 0.18s;
+}
+.result-page .ing-card-btn:hover {
+  background: #eef7e0;
+  border-color: #b4ca9c;
+  transform: translateY(-2px);
+}
+.result-page .ing-idx {
+  background: #f0f4e9;
+  color: #6f825f;
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+  font-size: 10px;
+  font-weight: 400;
+}
+.result-page .ing-name {
+  font-size: 14px;
+  font-weight: 500;
+  color: #2c4235;
+}
+.result-page .ing-tag {
+  font-size: 9px;
+  border-radius: 999px;
+  padding: 3px 8px;
+}
+.result-page .ing-chevron {
+  font-size: 23px;
+  font-weight: 300;
+  color: #6c825c;
+}
+.result-page .empty-block {
+  background: #f7f9f3;
+  border-color: #d9e1d1;
+  color: #6a7c5b;
+  border-radius: 16px;
+}
+.result-page .sheet-mask {
+  z-index: 100;
+  background: rgba(24, 41, 32, 0.4);
+}
+.result-page .sheet {
+  display: flex;
+  flex-direction: column;
+  max-height: 88vh;
+  max-height: 88dvh;
+  overflow: hidden;
+  border-radius: 28px 28px 0 0;
+}
+.result-page .sheet-grab {
+  flex: none;
+  margin-bottom: 40px;
+}
+.result-page .sheet-body {
+  min-height: 0;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  overflow-wrap: anywhere;
+  -webkit-overflow-scrolling: touch;
+}
+.result-page .sheet-bottom-pad {
+  display: none;
+}
+.result-page .sheet-close {
+  z-index: 2;
+  top: 15px;
+  right: 15px;
+  width: 40px;
+  height: 40px;
+  color: #304631;
+  background: #eaf0e1;
+}
+.result-page .deep-toggle {
+  color: #35582b;
+  border-color: #cdddc1;
+  background: #eff6e7;
+  border-radius: 999px;
+}
+
+@media (max-width: 800px) {
+  :is(.confirm-page, .result-page) .detail-page-head {
+    padding: 30px 0;
+    gap: 24px;
+  }
+  .confirm-page .review-stamp {
+    flex-basis: 160px;
+    padding-left: 20px;
+  }
+  .confirm-page .review-stamp strong {
+    font-size: 52px;
+  }
+  .confirm-page .confirm-grid {
+    grid-template-columns: 1fr;
+  }
+  .confirm-page .basis-row {
+    margin-top: 0;
+  }
+  .confirm-page .ing-list {
+    grid-template-columns: 1fr;
+  }
+  .result-page .result-seal {
+    flex-basis: 135px;
+    font-size: 31px;
+  }
+  .result-page .result-seal .seal-asterisk {
+    font-size: 24px;
+  }
+  .result-page .overview-cell {
+    padding: 22px;
+  }
+  .result-page .overview-cell strong {
+    font-size: 50px;
+  }
+  .result-page .overview-cell > div {
+    gap: 7px;
+  }
+  .result-page .overview-cell > div > span {
+    font-size: 10px;
+  }
+  .result-page .claim-card {
+    padding: 24px;
+  }
+  .result-page .claim-panel {
+    padding: 18px;
+  }
+  .result-page .ingredient-cards {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 560px) {
+  :is(.confirm-page, .result-page) .detail-eyebrow {
+    font-size: 8px;
+    padding: 4px 0 17px;
+    gap: 8px;
+    letter-spacing: 0.06em;
+  }
+  :is(.confirm-page, .result-page) .detail-page-head {
+    padding: 28px 0 24px;
+  }
+  :is(.confirm-page, .result-page) .detail-page-head h1 {
+    font-size: 31px;
+    margin-bottom: 12px;
+  }
+  :is(.confirm-page, .result-page) .detail-page-head p {
+    font-size: 12px;
+    line-height: 1.85;
+  }
+  .confirm-page .review-stamp,
+  .result-page .result-seal {
+    display: none;
+  }
+  .confirm-page .block {
+    padding: 20px 16px;
+    border-radius: 20px;
+  }
+  .confirm-page .block-head {
+    gap: 8px;
+    margin-bottom: 20px;
+  }
+  .confirm-page .block-head h2 {
+    font-size: 16px;
+  }
+  .confirm-page .block-hint {
+    width: 100%;
+    margin: -1px 0 0 37px;
+    font-size: 10px;
+  }
+  .confirm-page .basis-btn {
+    font-size: 11px;
+    min-height: 58px;
+  }
+  .confirm-page .nutrition-column-labels {
+    display: none;
+  }
+  .confirm-page .nutrition-mobile-note {
+    display: block;
+    margin: -6px 0 16px;
+    font-size: 10px;
+    color: #6c7b60;
+  }
+  .confirm-page .nut-row {
+    grid-template-columns: minmax(0, 1fr) 64px minmax(0, 1fr) 38px;
+    gap: 8px;
+    padding-bottom: 13px;
+    margin-bottom: 3px;
+    border-bottom: 1px solid #e8ece4;
+  }
+  .confirm-page .nut-row input,
+  .confirm-page .nut-row select {
+    font-size: 13px;
+    padding: 8px;
+    min-height: 44px;
+    border-radius: 9px;
+  }
+  .confirm-page .nut-name {
+    grid-column: 1 / 4;
+    grid-row: 1;
+  }
+  .confirm-page .nut-value {
+    grid-column: 1;
+    grid-row: 2;
+  }
+  .confirm-page .nut-unit {
+    grid-column: 2;
+    grid-row: 2;
+  }
+  .confirm-page .nut-nrv {
+    grid-column: 3 / 5;
+    grid-row: 2;
+  }
+  .confirm-page .nut-row.child {
+    padding-left: 9px;
+  }
+  .confirm-page .nut-row.child::before {
+    left: -2px;
+    top: 14px;
+    font-size: 8px;
+  }
+  .confirm-page .row-del {
+    grid-column: 4;
+    grid-row: 1;
+    width: 38px;
+    height: 44px;
+    border-radius: 9px;
+  }
+  .confirm-page .nut-hint {
+    padding-left: 2px;
+    gap: 7px;
+  }
+  .confirm-page .nut-hint .link-btn {
+    font-size: 10px;
+  }
+  .confirm-page .chip {
+    padding: 7px 12px;
+    font-size: 12px;
+  }
+  .confirm-page .ing-item input {
+    font-size: 12px;
+    padding: 7px 9px;
+  }
+  .confirm-page .ing-actions button {
+    width: 38px;
+    height: 44px;
+  }
+  .confirm-page .manual-row input {
+    font-size: 12px;
+  }
+  :is(.confirm-page, .result-page) .action-bar {
+    gap: 9px;
+    padding-top: 12px;
+  }
+  :is(.confirm-page, .result-page) .action-bar .btn-ghost {
+    padding: 0 14px;
+    min-height: 48px;
+    font-size: 12px;
+  }
+  :is(.confirm-page, .result-page) .action-bar .btn-primary {
+    font-size: 12px;
+    min-height: 48px;
+  }
+  :is(.confirm-page, .result-page) .alert {
+    padding: 13px 15px;
+    font-size: 11px;
+  }
+  .result-page .record-overview {
+    gap: 8px;
+    margin-top: 0;
+  }
+  .result-page .overview-cell {
+    border-radius: 17px;
+    padding: 17px 13px;
+  }
+  .result-page .overview-label {
+    font-size: 7px;
+    letter-spacing: 0;
+  }
+  .result-page .overview-cell > div {
+    display: block;
+    padding: 14px 0 7px;
+  }
+  .result-page .overview-cell strong {
+    display: block;
+    font-size: 42px;
+    margin-bottom: 5px;
+  }
+  .result-page .overview-cell > div > span {
+    font-size: 10px;
+  }
+  .result-page .overview-caption {
+    font-size: 8px;
+    line-height: 1.65;
+  }
+  .result-page .result-kicker {
+    font-size: 12px;
+  }
+  .result-page .source-line {
+    line-height: 1.8;
+    font-size: 10px;
+  }
+  .result-page .result-section {
+    margin-top: 32px;
+  }
+  .result-page .section-head {
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+  .result-page .section-head h2 {
+    font-size: 20px;
+  }
+  .result-page .section-tag {
+    font-size: 9px;
+    padding: 3px 8px;
+  }
+  .result-page .section-desc {
+    font-size: 11px;
+    margin-bottom: 18px;
+  }
+  .result-page .claim-card {
+    padding: 20px 16px;
+    border-radius: 20px;
+  }
+  .result-page .claim-card-eyebrow {
+    font-size: 8px;
+    margin-bottom: 15px;
+  }
+  .result-page .claim-card-eyebrow span:last-child {
+    font-size: 8px;
+  }
+  .result-page .claim-card-head .claim-quote {
+    font-size: 25px;
+  }
+  .result-page .status-badge {
+    font-size: 9px;
+    padding: 5px 9px;
+  }
+  .result-page .claim-summary {
+    font-size: 12px;
+    margin-bottom: 18px;
+  }
+  .result-page .claim-grid {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+  .result-page .claim-panel {
+    padding: 17px;
+  }
+  .result-page .serving-section {
+    padding: 22px 18px;
+    border-radius: 20px;
+  }
+  .result-page .slider-row {
+    gap: 20px;
+  }
+  .result-page .slider-value {
+    min-width: 100px;
+    font-size: 28px;
+  }
+  .result-page .ing-card-btn {
+    padding: 13px 14px;
+    min-height: 65px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :is(.confirm-page, .result-page),
+  :is(.confirm-page, .result-page) * {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ============================================================
+   话术拆解 V2 新增元素
+   只追加新类名，不改动上面任何既有规则；颜色与圆角沿用本文件的
+   冷灰 / 墨绿 / 荧光绿体系，移动端断点与既有卡片保持一致。
+   ============================================================ */
+
+/* ---------- 确认页：食品形态 ---------- */
+.confirm-page .basis-form-row {
+  margin-top: 22px;
+  padding-top: 20px;
+  border-top: 1px solid var(--detail-line);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px 16px;
+}
+.confirm-page .basis-form-label {
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  color: #6a785f;
+}
+.confirm-page .basis-form-row .basis-row {
+  margin-top: 0;
+  gap: 8px;
+}
+.confirm-page .basis-form-row .basis-btn {
+  min-height: 44px;
+  flex: 0 0 auto;
+  padding: 0 24px;
+  border-radius: 999px;
+  font-size: 12px;
+}
+.confirm-page .basis-form-hint {
+  flex: 1 1 100%;
+  font-size: 11px;
+  line-height: 1.7;
+  color: var(--detail-muted);
+}
+
+/* ---------- 确认页：更多宣传语 ---------- */
+.confirm-page .chip-grid-more {
+  margin-top: 10px;
+}
+.confirm-page .more-claims-toggle {
+  display: block;
+  width: fit-content;
+  margin: 12px 0 4px;
+  min-height: 32px;
+  font-size: 12px;
+}
+
+/* ---------- 结果页：卡片口径与不一致疑点 ---------- */
+.result-page .claim-meta-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin: -10px 0 22px;
+  font-size: 10px;
+  color: #6f8064;
+}
+.result-page .claim-meta-row > span {
+  border: 1px solid #dfe6d8;
+  border-radius: 999px;
+  padding: 4px 10px;
+  line-height: 1.4;
+}
+.result-page .claim-meta-rule {
+  color: #3b5435;
+  background: #eef5e3;
+  border-color: #dbe7cd !important;
+}
+.result-page .claim-meta-basis {
+  background: transparent;
+  border-style: dashed !important;
+  color: #7a8770;
+}
+.result-page .claim-mismatch {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 6px 12px;
+  margin-bottom: 22px;
+  padding: 14px 18px;
+  border: 1px solid #e7dfc9;
+  border-radius: 14px;
+  background: #f5f1e4;
+  font-size: 12px;
+  line-height: 1.75;
+  color: #77683d;
+}
+.result-page .claim-mismatch strong {
+  font-weight: 600;
+  color: #6a5a2c;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+}
+.result-page .claim-mismatch span {
+  flex: 1 1 260px;
+  min-width: 0;
+}
+
+@media (max-width: 640px) {
+  .confirm-page .basis-form-row .basis-btn {
+    min-height: 42px;
+    padding: 0 18px;
+  }
+  .result-page .claim-meta-row {
+    margin: -6px 0 18px;
+    gap: 6px;
+  }
+  .result-page .claim-meta-row > span {
+    padding: 3px 9px;
+    font-size: 10px;
+  }
+  .result-page .claim-mismatch {
+    padding: 12px 14px;
+    font-size: 11px;
+  }
+}
+
+/* ============================================================
+   V2.1 话术卡：一句话结论的视觉层级
+   只新增类名；结论字号明显高于正文，但仍沿用既有墨绿 / 米白体系。
+   ============================================================ */
+
+.result-page .claim-takeaway {
+  margin: 4px 0 18px;
+  padding: 15px 18px 15px 20px;
+  border-left: 3px solid #8fb26a;
+  border-radius: 4px 14px 14px 4px;
+  background: #f4f7ee;
+  color: #263e34;
+  font-size: clamp(17px, 2.1vw, 22px);
+  font-weight: 600;
+  line-height: 1.55;
+  letter-spacing: -0.01em;
+}
+.result-page .claim-takeaway.tone-amber {
+  border-left-color: #d3ab55;
+  background: #f8f4e7;
+  color: #5c4d27;
+}
+.result-page .claim-takeaway.tone-gray {
+  border-left-color: #c3ccbd;
+  background: #f4f6f2;
+  color: #4d5a49;
+}
+.result-page .claim-takeaway.tone-green {
+  border-left-color: #8fb26a;
+  background: #f1f7e6;
+  color: #2f4a2a;
+}
+
+.result-page .claim-summary.is-secondary {
+  margin-bottom: 16px;
+  font-size: 13px;
+  line-height: 1.85;
+  color: #6b7a63;
+}
+
+.result-page .claim-version-note {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 6px 10px;
+  margin: -4px 0 20px;
+  padding: 10px 14px;
+  border: 1px solid #ece4cd;
+  border-radius: 10px;
+  background: #f8f4e7;
+  color: #77683d;
+  font-size: 11.5px;
+  line-height: 1.7;
+}
+.result-page .claim-version-note > span {
+  flex: none;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+}
+.result-page .claim-version-note.tone-neutral {
+  border-color: #e0e6db;
+  background: #f4f6f2;
+  color: #5f6f57;
+}
+
+@media (max-width: 640px) {
+  .result-page .claim-takeaway {
+    margin: 2px 0 14px;
+    padding: 13px 14px 13px 16px;
+    font-size: clamp(17px, 4.6vw, 19px);
+    line-height: 1.58;
+  }
+  .result-page .claim-version-note {
+    font-size: 11px;
+    padding: 9px 12px;
+  }
+}
+
+/* 长状态标签时让标题与状态各占一行，避免「无添加糖」被挤成两行 */
+.result-page .claim-card-head {
+  flex-wrap: wrap;
+  row-gap: 8px;
+}
+.result-page .claim-card-head .claim-quote {
+  flex: 1 1 auto;
+  min-width: 6em;
+}
+.result-page .claim-card-head .status-badge {
+  margin-left: auto;
+}
+
+/* ============================================================
+   V2.1.1 结果页固定操作栏
+   底栏固定在视口底部，高度由 ResizeObserver 写入
+   --result-action-bar-height；滚动内容的最后（页脚）留出
+   「底栏 + 阅读间距」，最后一行可以完整滚到按钮上方。
+   ============================================================ */
+
+.result-page .action-bar {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 30;
+  width: 100%;
+  margin: 0;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.result-page .action-bar-inner {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/* 左右留白跟随 .app-shell 的页面边距，按钮与正文对齐 */
+@media (min-width: 521px) {
+  .result-page .action-bar {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+@media (min-width: 761px) {
+  .result-page .action-bar {
+    padding-left: 28px;
+    padding-right: 28px;
+  }
+}
+@media (min-width: 1101px) {
+  .result-page .action-bar {
+    padding-left: 48px;
+    padding-right: 48px;
+  }
+}
+
+/* 页面最后一项是页脚：在这里一次性留出底栏高度，滚动到底时最后一行
+   会停在按钮上方，不会出现「留白加错位置、正文仍被盖住」。 */
+.step-result .app-footer {
+  padding-bottom: calc(var(--result-action-bar-height, 86px) + 22px);
+}
+
+@media (max-width: 640px) {
+  .result-page .action-bar-inner {
+    gap: 9px;
+  }
+}
+
+/* 结果页底栏是 fixed：进场动画不能带 transform，
+   否则动画期间 fixed 会以页面为参照系，底栏会先跑到页面最底部再跳回来。
+   这里只保留淡入，视觉效果与原来的 0.18s 一致。
+   用 .page.result-page 提高优先级，确保覆盖 .page 的 fade-in。 */
+.page.result-page {
+  animation: result-page-fade 0.18s ease-out;
+}
+@keyframes result-page-fade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* ============================================================
+   V2.2 复合配料：确认页子项编辑 + 结果页分组
+   只做轻量缩进与分组，不改变现有卡片尺寸和配色体系。
+   ============================================================ */
+
+/* ---------- 确认页 ---------- */
+.confirm-page .ing-item-wrap {
+  min-width: 0;
+}
+.confirm-page .ing-item-wrap.has-children {
+  grid-column: 1 / -1;
+}
+.confirm-page .ing-structure-note {
+  margin: 4px 0 0 27px;
+  font-size: 10.5px;
+  color: #8a6d2f;
+}
+.confirm-page .ing-children {
+  margin: 7px 0 0 27px;
+  padding-left: 12px;
+  border-left: 2px solid #e3e9da;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.confirm-page .ing-children-head {
+  font-size: 10px;
+  letter-spacing: 0.04em;
+  color: #7a8770;
+}
+.confirm-page .ing-child-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  min-width: 0;
+}
+.confirm-page .ing-child-row input {
+  flex: 1;
+  width: auto;
+  min-width: 0;
+  min-height: 36px;
+  padding: 6px 10px;
+  font-size: 12px;
+}
+.confirm-page .ing-child-row button {
+  flex: none;
+  width: 32px;
+  height: 32px;
+  border: 0;
+  border-radius: 8px;
+  background: #f1f4ee;
+  color: #7a8570;
+  cursor: pointer;
+}
+.confirm-page .ing-child-row button.danger:hover {
+  background: #fbe9e6;
+  color: #a8473a;
+}
+.confirm-page .ing-child-note {
+  flex: none;
+  font-size: 10px;
+  color: #7a8770;
+}
+.confirm-page .ing-add-child {
+  align-self: flex-start;
+  min-height: 30px;
+  padding: 0 10px;
+  border: 1px dashed #d4deca;
+  border-radius: 8px;
+  background: transparent;
+  color: #5f7057;
+  font-size: 11px;
+  cursor: pointer;
+}
+
+/* ---------- 结果页 ---------- */
+.result-page .ingredient-cards li.ing-group {
+  grid-column: 1 / -1;
+}
+.result-page .ing-group-head {
+  cursor: default;
+  background: #fafbf8;
+}
+.result-page .ing-group-head:hover {
+  border-color: #e0e6dc;
+  background: #fafbf8;
+}
+.result-page .ing-group-count {
+  flex: none;
+  font-size: 10px;
+  color: #6f825f;
+  border: 1px dashed #d8e1cc;
+  border-radius: 999px;
+  padding: 3px 8px;
+}
+.result-page .ing-child-block {
+  margin: 7px 0 0 38px;
+}
+.result-page .ing-child-block > summary {
+  cursor: pointer;
+  list-style: none;
+  width: fit-content;
+  font-size: 11px;
+  color: #5f7057;
+  padding: 4px 2px;
+}
+.result-page .ing-child-block > summary::-webkit-details-marker {
+  display: none;
+}
+.result-page .ing-child-block > summary::before {
+  content: "＋ ";
+  font-size: 10px;
+}
+.result-page .ing-child-block[open] > summary::before {
+  content: "− ";
+}
+.result-page .ing-child-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 6px;
+}
+.result-page .ing-child-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  max-width: 100%;
+  padding: 7px 10px;
+  border: 1px solid #e3e9da;
+  border-radius: 9px;
+  background: #fbfcf9;
+  color: #33452f;
+  font-family: inherit;
+  font-size: 12px;
+  text-align: left;
+  cursor: pointer;
+}
+.result-page .ing-child-btn:hover {
+  border-color: #b9cba5;
+  background: #f3f8ec;
+}
+.result-page .ing-child-name {
+  overflow-wrap: anywhere;
+}
+.result-page .ing-child-tag {
+  flex: none;
+  font-size: 9.5px;
+  color: #7a8770;
+}
+.result-page .ing-child-tag.tag-additive {
+  color: #1f5fbf;
+}
+.result-page .ing-child-tag.tag-food_ingredient {
+  color: #426636;
+}
+.result-page .ing-child-tag.tag-unknown {
+  color: #727a73;
+}
+
+@media (max-width: 760px) {
+  .confirm-page .ing-children {
+    margin-left: 18px;
+    padding-left: 10px;
+  }
+  .confirm-page .ing-structure-note {
+    margin-left: 18px;
+  }
+  .result-page .ing-child-block {
+    margin-left: 0;
+  }
+  .result-page .ing-child-btn {
+    padding: 8px 10px;
+  }
+}
+
+/* V2.2 部分识别结果提示：保留已恢复字段，明确缺失项不补 0 */
+.confirm-page .partial-notice {
+  margin-bottom: 22px;
+  line-height: 1.8;
+}
+.confirm-page .partial-notice-hint {
+  margin-top: 8px;
+  font-size: 11px;
+  color: #7a6a3f;
+}
+
+/* V2.2 类别写法：不是具体物质，也不是「资料不足」 */
+.category-hint {
+  padding: 14px 16px;
+  border: 1px solid #e3e9da;
+  border-radius: 12px;
+  background: #fbfcf9;
+}
+.category-hint-label {
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  color: #7a8770;
+  margin-bottom: 6px;
+}
+.category-hint-what {
+  margin: 0 0 8px;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.65;
+  color: #263e34;
+}
+.category-hint p {
+  margin: 0 0 6px;
+  font-size: 13px;
+  line-height: 1.8;
+  color: #4d5a49;
+}
+.category-hint .category-hint-how {
+  margin-bottom: 0;
+  font-size: 12px;
+  color: #6f7a68;
+}
+.result-page .ing-count-tag {
+  background: #f0f4e9;
+  color: #5f7057;
+}
+
+/* V2.2 部分识别：说明「模型给了几项」与「页面实际几项」的差额来源 */
+.confirm-page .partial-notice-counts {
+  margin-top: 8px;
+  font-size: 11.5px;
+  line-height: 1.75;
+  color: #6f6039;
+}
+
+/* V2.3 识别失败：给用户一个可反馈的短编号，不暴露技术细节 */
+.upload-page .error-ref {
+  margin-top: 8px;
+  font-size: 11px;
+  letter-spacing: 0.02em;
+  color: #8a7a52;
+  opacity: 0.9;
+}
+
+/* ============================================================
+   V2.3 成分卡：健康上需要知道什么
+   用与三段一致的浅色卡片，不做成警告框；证据等级用中性小徽标。
+   ============================================================ */
+
+.health-block {
+  margin: 20px 0 8px;
+  padding: 16px 16px 13px;
+  border: 1px solid #e3e9da;
+  border-radius: 14px;
+  background: #f8faf4;
+}
+.health-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+.health-label {
+  font-size: 10.5px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  color: #5f7057;
+}
+.health-badge {
+  flex: none;
+  padding: 2px 7px;
+  border: 1px solid #dfe6d8;
+  border-radius: 999px;
+  font-size: 9.5px;
+  line-height: 1.5;
+  color: #6f7a68;
+  background: #fff;
+}
+.health-badge.hs-authoritative {
+  border-color: #c9dcc4;
+  background: #eef6e6;
+  color: #2f5242;
+}
+.health-badge.hs-supported {
+  border-color: #dbe7cd;
+  background: #f1f7e6;
+  color: #42603a;
+}
+.health-badge.hs-conditional {
+  border-color: #e7dfc9;
+  background: #f8f4e7;
+  color: #77683d;
+}
+.health-badge.hs-insufficient {
+  background: #f4f6f2;
+  color: #6f7a68;
+}
+.health-headline {
+  margin: 9px 0 0;
+  font-size: clamp(17px, 2.1vw, 20px);
+  font-weight: 600;
+  line-height: 1.56;
+  color: #263e34;
+  letter-spacing: -0.005em;
+  text-wrap: pretty;
+}
+.health-rows {
+  margin: 12px 0 0;
+}
+.health-row {
+  padding: 9px 0 0;
+  margin-top: 9px;
+  border-top: 1px dashed #e3e9da;
+}
+.health-row dt {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 7px;
+  font-size: 10.5px;
+  letter-spacing: 0.04em;
+  color: #6f8064;
+}
+.health-row dd {
+  margin: 6px 0 0;
+  font-size: 13.5px;
+  line-height: 1.8;
+  color: #3c4a38;
+}
+.health-meaning {
+  margin: 14px 0 0;
+  padding: 11px 12px;
+  border: 1px solid #e5ebdb;
+  border-radius: 10px;
+  background: #fff;
+}
+.health-meaning h4 {
+  margin: 0;
+  font-size: 10.5px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  color: #5f7057;
+}
+.health-meaning p {
+  margin: 7px 0 0;
+  font-size: 12.5px;
+  line-height: 1.75;
+  color: #46543f;
+}
+.health-meaning p.health-meaning-cond {
+  margin-top: 5px;
+  font-size: 10.5px;
+  line-height: 1.6;
+  color: #8a9484;
+}
+.health-foot {
+  margin: 12px 0 0;
+  padding-top: 9px;
+  border-top: 1px solid #eef1e8;
+  font-size: 10.5px;
+  line-height: 1.65;
+  color: #8a9484;
+}
+.health-empty {
+  margin: 16px 0 0;
+  font-size: 11.5px;
+  line-height: 1.7;
+  color: #8a9484;
+}
+
+@media (max-width: 640px) {
+  .health-block {
+    margin: 16px 0 6px;
+    padding: 13px 13px 11px;
+  }
+  .health-headline {
+    font-size: 17px;
+    line-height: 1.58;
+  }
+  .health-row dd {
+    font-size: 13px;
+  }
+}
+
+/* ============================================================
+   V2.3 验收修复：健康结论的核对依据 + 补充检索入口
+   仍然沿用浅色卡片，不新增警告色；「依据原文」默认折叠，
+   展开后是服务端逐字比对过的原句，不是模型现编的转述。
+   ============================================================ */
+
+.health-empty p {
+  margin: 0;
+}
+
+.health-meta {
+  margin-top: 6px;
+}
+.health-meta > summary {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  cursor: pointer;
+  font-size: 10.5px;
+  letter-spacing: 0.03em;
+  color: #7d8a74;
+  list-style: none;
+}
+.health-meta > summary::-webkit-details-marker {
+  display: none;
+}
+.health-meta > summary::after {
+  content: "▾";
+  font-size: 9px;
+  transform: translateY(-0.5px);
+}
+.health-meta[open] > summary::after {
+  content: "▴";
+}
+.health-quote {
+  margin: 7px 0 0;
+  padding: 8px 10px;
+  border-left: 2px solid #d9e4cf;
+  background: #fff;
+  border-radius: 0 8px 8px 0;
+  font-size: 11.5px;
+  line-height: 1.72;
+  color: #4d5a48;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+.health-quote-src {
+  display: inline-block;
+  margin-left: 6px;
+  padding: 0 5px;
+  border-radius: 999px;
+  background: #eef3e8;
+  font-size: 9.5px;
+  color: #6f7a68;
+  vertical-align: 1px;
+}
+.health-cond {
+  margin: 5px 0 0;
+  font-size: 10.5px;
+  line-height: 1.65;
+  color: #7d8a74;
+}
+.health-note {
+  margin: 8px 0 0;
+  font-size: 11px;
+  line-height: 1.65;
+  color: #6f7a68;
+}
+.health-gap-reason {
+  margin: 8px 0 0;
+  font-size: 10.5px;
+  line-height: 1.65;
+  color: #8a9484;
+}
+
+.health-supplement {
+  margin: 14px 0 0;
+  padding: 12px 13px;
+  border: 1px dashed #dfe6d8;
+  border-radius: 12px;
+  background: #fff;
+}
+.health-supplement-title {
+  margin: 0;
+  font-size: 12px;
+  font-weight: 600;
+  color: #3c4a38;
+}
+.health-supplement-desc {
+  margin: 4px 0 9px;
+  font-size: 11.5px;
+  line-height: 1.7;
+  color: #6f7a68;
+}
+.health-supplement-cost {
+  margin: 7px 0 0;
+  font-size: 10px;
+  line-height: 1.6;
+  color: #98a091;
+}
+
+@media (max-width: 640px) {
+  .health-supplement {
+    padding: 11px 12px;
+  }
+  .health-quote {
+    font-size: 11px;
+  }
+}
+
+/* ============================================================
+   V2.3 返工：健康结论是主角，科学背景退到普通字号
+   - .deep-core.tone-quiet 不再使用大字标题，只作为「科学背景」段落
+   - .health-row-note 说明「只有参考值，没有后果证据」的边界
+   - .health-block.is-reference 用于没有可下结论条目时的降级展示
+   ============================================================ */
+
+.deep-core.tone-quiet {
+  padding: 12px 14px;
+  background: #f7f9f4;
+  border: 1px solid #e6ecdf;
+}
+.deep-core.tone-quiet .deep-core-explain,
+.deep-core.tone-quiet .deep-core-explain.is-primary {
+  margin: 4px 0 0;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1.78;
+  color: #4d5a48;
+  letter-spacing: 0;
+}
+.deep-core.tone-quiet .deep-core-label {
+  color: #8a9484;
+  font-size: 10.5px;
+}
+
+.health-row-note {
+  display: block;
+  margin-top: 4px;
+  font-size: 10.5px;
+  line-height: 1.62;
+  color: #8a9484;
+}
+
+.health-block.is-reference {
+  background: #fbfcf9;
+  border-color: #e8eee1;
+}
+.health-block.is-reference .health-label {
+  color: #6f7a68;
+}
+
+@media (max-width: 640px) {
+  .deep-core.tone-quiet .deep-core-explain,
+  .deep-core.tone-quiet .deep-core-explain.is-primary {
+    font-size: 12.5px;
+  }
+}
+
+/* ============================================================
+   V2.4 深度研究：真实阶段、取消、对这款食品
+   - .analyzing-main 让阶段文字可换行，取消按钮不被挤走
+   - .food-meaning 是「适用性」说明，不是又一条健康结论
+   - .deep-divider 把健康部分与科学依据分开，避免依据抢占第一眼
+   ============================================================ */
+
+.analyzing-main {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.analyzing-cancel {
+  flex: none;
+  align-self: center;
+  white-space: nowrap;
+}
+
+.research-cancelled {
+  margin: 10px 0 4px;
+  padding: 9px 11px;
+  border-radius: 9px;
+  background: #f7f8f4;
+  border: 1px solid #e6e9e0;
+  font-size: 11.5px;
+  line-height: 1.65;
+  color: #6f7a68;
+}
+
+.food-meaning {
+  margin: 14px 0 4px;
+  padding: 13px 14px;
+  border-radius: 12px;
+  background: #fbfcf9;
+  border: 1px solid #e8eee1;
+}
+
+.food-meaning h3 {
+  margin: 0 0 6px;
+  font-size: 12px;
+  font-weight: 600;
+  color: #3c4a38;
+  letter-spacing: 0.01em;
+}
+
+.food-meaning p {
+  margin: 0 0 5px;
+  font-size: 12px;
+  line-height: 1.78;
+  color: #4d5a48;
+}
+
+.food-meaning p:last-child {
+  margin-bottom: 0;
+  font-size: 11px;
+  color: #7d8a74;
+}
+
+.deep-divider {
+  margin: 20px 0 8px;
+  padding-top: 14px;
+  border-top: 1px solid #ecefe7;
+  font-size: 10.5px;
+  letter-spacing: 0.12em;
+  color: #98a091;
+}
+
+.deep-view .health-block {
+  margin-top: 0;
+}
+
+@media (max-width: 640px) {
+  .analyzing-bar {
+    gap: 8px;
+  }
+  .analyzing-cancel {
+    padding: 4px 8px;
+    font-size: 11px;
+  }
+  .food-meaning {
+    padding: 12px 13px;
+  }
+}

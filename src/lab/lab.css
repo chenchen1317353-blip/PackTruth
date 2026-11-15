@@ -1,0 +1,434 @@
+/* 测试台 / 对比工具的样式，与正式产品样式隔离 */
+
+.lab-wrap {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 20px 18px 70px;
+}
+
+.lab-nav {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  font-size: 13px;
+  margin-bottom: 18px;
+}
+
+.lab-nav a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.lab-nav a:hover {
+  text-decoration: underline;
+}
+
+.lab-nav-current {
+  color: var(--text-faint);
+}
+
+.lab-head h1 {
+  font-size: 21px;
+  margin: 0 0 6px;
+}
+
+.lab-head p {
+  margin: 0;
+  color: var(--text-dim);
+  font-size: 13.5px;
+  line-height: 1.65;
+}
+
+.lab-tag {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 650;
+  color: var(--warn);
+  background: var(--warn-soft);
+  border: 1px solid #f0d9ab;
+  border-radius: 999px;
+  padding: 2px 10px;
+  margin-bottom: 10px;
+}
+
+.lab-warn {
+  margin-top: 14px;
+  padding: 10px 14px;
+  border-radius: 10px;
+  background: var(--warn-soft);
+  border: 1px solid #f0d9ab;
+  color: #6b4600;
+  font-size: 12.5px;
+  line-height: 1.6;
+}
+
+.lab-note {
+  margin-top: 10px;
+  font-size: 12px;
+  color: var(--text-dim);
+  background: #f8f9fb;
+  border-left: 3px solid var(--border-strong);
+  padding: 8px 12px;
+  border-radius: 0 6px 6px 0;
+}
+
+.lab-empty {
+  padding: 22px;
+  text-align: center;
+  color: var(--text-faint);
+  font-size: 13px;
+  border: 1px dashed var(--border-strong);
+  border-radius: 10px;
+  background: #fbfcfd;
+}
+
+.lab-error {
+  padding: 12px 14px;
+  border-radius: 10px;
+  background: var(--err-soft);
+  border: 1px solid #f5cfcb;
+  color: var(--err);
+  font-size: 13px;
+  margin-bottom: 12px;
+}
+
+/* ---------- 缩略图选择 ---------- */
+.thumb-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 10px;
+  margin: 16px 0;
+}
+
+.thumb {
+  position: relative;
+  padding: 0;
+  border: 2px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+  background: #fff;
+  cursor: pointer;
+  aspect-ratio: 3 / 4;
+}
+
+.thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.thumb.active {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px rgba(31, 111, 235, 0.15);
+}
+
+.thumb-label {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.62);
+  color: #fff;
+  font-size: 11.5px;
+  padding: 4px 6px;
+  text-align: center;
+}
+
+.thumb-done {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  background: var(--ok);
+  color: #fff;
+  font-size: 10.5px;
+  padding: 1px 6px;
+  border-radius: 999px;
+}
+
+/* ---------- 对比布局 ---------- */
+.compare-layout {
+  display: grid;
+  grid-template-columns: minmax(280px, 380px) 1fr;
+  gap: 20px;
+  align-items: start;
+}
+
+@media (max-width: 900px) {
+  .compare-layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+.compare-photo {
+  position: sticky;
+  top: 16px;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 12px;
+  box-shadow: var(--shadow);
+}
+
+@media (max-width: 900px) {
+  .compare-photo {
+    position: static;
+  }
+}
+
+.compare-photo img {
+  width: 100%;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  display: block;
+}
+
+.photo-meta {
+  font-size: 12px;
+  color: var(--text-dim);
+  line-height: 1.7;
+  margin-top: 10px;
+}
+
+.row-gap {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 12px;
+}
+
+.btn {
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 550;
+  padding: 8px 14px;
+  border-radius: 8px;
+  border: 1px solid var(--border-strong);
+  background: #fff;
+  color: var(--text);
+  cursor: pointer;
+}
+
+.btn:hover:not(:disabled) {
+  background: #f8f9fb;
+}
+
+.btn:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.btn.primary {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+.btn.primary:hover:not(:disabled) {
+  background: #1a5fd0;
+}
+
+.btn.ghost {
+  background: transparent;
+}
+
+.btn.small {
+  font-size: 12px;
+  padding: 5px 10px;
+}
+
+/* ---------- 模型摘要卡 ---------- */
+.provider-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 10px;
+  margin-bottom: 14px;
+}
+
+.provider-card {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 11px 13px;
+  background: #fcfcfd;
+  font-size: 12.3px;
+}
+
+.provider-card.bad {
+  border-color: #f5cfcb;
+  background: var(--err-soft);
+}
+
+.pc-head {
+  font-weight: 650;
+  margin-bottom: 6px;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.pc-row {
+  color: var(--text-dim);
+  line-height: 1.75;
+}
+
+/* ---------- 对比表 ---------- */
+.cmp-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: #fff;
+}
+
+.cmp-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12.5px;
+  min-width: 560px;
+}
+
+.cmp-table th,
+.cmp-table td {
+  border-bottom: 1px solid var(--border);
+  padding: 8px 10px;
+  vertical-align: top;
+  text-align: left;
+}
+
+.cmp-table th {
+  background: #f7f8fa;
+  font-weight: 650;
+  color: var(--text-dim);
+  font-size: 12px;
+  position: sticky;
+  top: 0;
+}
+
+.cmp-table tr:last-child td {
+  border-bottom: none;
+}
+
+.col-field {
+  width: 132px;
+  color: var(--text-dim);
+  font-weight: 550;
+  background: #fbfcfd;
+}
+
+.cmp-cell {
+  min-width: 200px;
+}
+
+.cmp-value {
+  line-height: 1.6;
+  word-break: break-word;
+}
+
+.long-text {
+  display: block;
+  max-height: 120px;
+  overflow: auto;
+  font-size: 12px;
+  line-height: 1.6;
+  color: var(--text);
+}
+
+/* ---------- 标记下拉 ---------- */
+.mark-select {
+  margin-top: 6px;
+  font-size: 11.5px;
+  padding: 3px 6px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: #fff;
+  width: auto;
+  min-width: 108px;
+  cursor: pointer;
+}
+
+.mark-select.tone-green {
+  border-color: #9fd8bb;
+  background: var(--ok-soft);
+  color: var(--ok);
+}
+
+.mark-select.tone-red {
+  border-color: #f0b7b1;
+  background: var(--err-soft);
+  color: var(--err);
+}
+
+.mark-select.tone-amber {
+  border-color: #efd3a3;
+  background: var(--warn-soft);
+  color: var(--warn);
+}
+
+/* ---------- 统计 ---------- */
+.mark-stats {
+  margin-top: 18px;
+}
+
+.stats-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 10px;
+}
+
+.stat-card {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 11px 13px;
+  background: #fcfcfd;
+  font-size: 12.3px;
+}
+
+.sc-name {
+  font-weight: 650;
+  margin-bottom: 5px;
+}
+
+.sc-row {
+  color: var(--text-dim);
+  line-height: 1.75;
+}
+
+.mini-title {
+  font-size: 12px;
+  font-weight: 650;
+  color: var(--text-dim);
+  margin-bottom: 4px;
+}
+
+.original-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 12px;
+  margin-top: 12px;
+}
+
+.code-block {
+  background: var(--code-bg);
+  border-radius: 8px;
+  padding: 11px 13px;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 11.5px;
+  line-height: 1.65;
+  white-space: pre-wrap;
+  word-break: break-word;
+  max-height: 340px;
+  overflow: auto;
+  margin: 0;
+  color: #26303d;
+}
+
+.lab-foot {
+  margin-top: 36px;
+  text-align: center;
+  font-size: 11.5px;
+  color: var(--text-faint);
+}
+
+.muted {
+  color: var(--text-faint);
+}
